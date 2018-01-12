@@ -13,6 +13,7 @@ Major of Information Sience and Data Engineering - MBA
     - Qualitatie Research Methods
     - Quantitative Research Methods
     - Research Design
+    
   S2:
     - Collaborative Konwoledge Management
     - Konwoledge Representation and Semantic Technologies
@@ -21,6 +22,7 @@ Major of Information Sience and Data Engineering - MBA
     - Sepcific Research Methods
     - Strategic Management
     - User Interface Design
+    
   S3:
     - Advanced Information Retrival
     - Advanced Topics in Information Sience (OSS, E-Commerce)
@@ -29,9 +31,11 @@ Major of Information Sience and Data Engineering - MBA
     - Practice Project 2
     - Research Design
     - Talent Management
+    
   S4:
     - Information Visualization
     - Trends in Data Mangement
+    
   S5:
     - Advanced Topics in Information Science (OSS, E-Commerce)
     - Advanced Information Retrival
