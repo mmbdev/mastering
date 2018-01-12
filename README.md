@@ -1,2 +1,2 @@
 # mastering
-MBA
+Major of Information Sience and Data Engineering - MBA
