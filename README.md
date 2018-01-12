@@ -6,40 +6,40 @@ Major of Information Sience and Data Engineering - MBA
 
 ## Modules:
   S1:
-    - Advanced Web Technologies
-    - Coroperate Communciation
-    - Corporate Responsibility
-    - Introduction to Data Management and Analysis
-    - Qualitatie Research Methods
-    - Quantitative Research Methods
-    - Research Design
+   - Advanced Web Technologies
+   - Coroperate Communciation
+   - Corporate Responsibility
+   - Introduction to Data Management and Analysis
+   - Qualitatie Research Methods
+   - Quantitative Research Methods
+   - Research Design
     
   S2:
-    - Collaborative Konwoledge Management
-    - Konwoledge Representation and Semantic Technologies
-    - Organizational Development
-    - Pratice Project
-    - Sepcific Research Methods
-    - Strategic Management
-    - User Interface Design
+   - Collaborative Konwoledge Management
+   - Konwoledge Representation and Semantic Technologies
+   - Organizational Development
+   - Pratice Project
+   - Sepcific Research Methods
+   - Strategic Management
+   - User Interface Design
     
   S3:
-    - Advanced Information Retrival
-    - Advanced Topics in Information Sience (OSS, E-Commerce)
-    - Information Security
-    - Leadership
-    - Practice Project 2
-    - Research Design
-    - Talent Management
+   - Advanced Information Retrival
+   - Advanced Topics in Information Sience (OSS, E-Commerce)
+   - Information Security
+   - Leadership
+   - Practice Project 2
+   - Research Design
+   - Talent Management
     
   S4:
-    - Information Visualization
-    - Trends in Data Mangement
+   - Information Visualization
+   - Trends in Data Mangement
     
   S5:
-    - Advanced Topics in Information Science (OSS, E-Commerce)
-    - Advanced Information Retrival
-    - Leadership
+   - Advanced Topics in Information Science (OSS, E-Commerce)
+   - Advanced Information Retrival
+   - Leadership
 
 Conclusion:
   This Major and MBA contains a lot of theoretic and psychological information and knowledge content. 
