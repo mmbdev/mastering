@@ -4,7 +4,7 @@
 Bramwell Tovey, der künstleri- sche Leiter und Dirigent des Winnipeg Symphony Orchestra
 
 
-## Handlung
+## Handlung / Textteile
 Führung in einem Orchester
 
 Stichpunkte für die Führungsanalyse:
@@ -38,6 +38,9 @@ sich – Motivieren, Coachen und so weiter – unaufdringliche Führungshandlung
 Beherrscht ein Musiker sein Instrument nicht gut genug, so kann er ersetzt werden. In den Proben kommt es deshalb nicht darauf an, vorhandene künstlerische Fertigkeiten noch zu verbessern, sondern sie aufeinander abzustimmen. (im Business fast nie der Fall)
 
 Tatsächlich fühlt sich er am wohlsten, wenn er sich ganz auf die Musik beschränken und selbst Kla vier spielen oder komponieren kann. Vermutlich liebt er diese Tätigkeiten nicht zuletzt deshalb, weil er dabei niemanden führen muß oder selbst geführt wird.
+
+--
+Fortsetzung folgt, ab S. 5
 
 ## Fuehrungsstil
 Bei einigem Nachdenken gleicht ein Symphonieorchester ei- gentlich vielen anderen professio- nellen Organisationen, egal ob es sich beispielsweise um Unternehmensberatungen oder Krankenhäuser handelt. Sie alle sind um die Arbeit von hochqualifizierten Menschen herum aufgebaut, die auch ohne betriebsintern vorgeschriebene Verfahrensgänge oder Zeitstudien- analytiker wissen, was sie tun müssen und es auch tatsächlich tun. Diese fundamentale Tatsache bringt viele vorgefaßte Meinungen ins Wanken, die wir über Management und Führung hegen und nährt die Vermutung, daß verdeckte Führung vielleicht eine größere Rolle spielt als augenscheinliches, offenes Führen.
