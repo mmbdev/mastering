@@ -66,3 +66,12 @@ Julian Lewis Jones als Nelson Mandelas Leibwächter
 
 ##Handlung
 
+##Analyse
+
+Der Begriff Führungsstil bezeichnet ein langfristiges, relativ stabiles, von der Situation unabhängiges Verhaltensmuster einer Führungskraft, das zugleich die Grundeinstellung gegenüber den Mitarbeitern zum Ausdruck bringt.
+
+Führung der anderen Kateogrien matchen, was würde passieren, wenn Nelson Mandela anderst geführt hätte?!
+Alle Führungsstile durchgehen.
+
+Theoretiker der Führungsforschung: Welcher Zusammenhang gibt es zwischen Situation und die Führung?
+-> Jede Situation erfordert seine eigen Führungshandlung oder Führungsstil.
