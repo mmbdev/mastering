@@ -119,3 +119,9 @@ Ebenene:
     Organistaion:
     
     Umfeld:
+
+## Ablauf
+
+1. Beschreibung Führungsstil
+2. Beschreibung Führungssituation
+3. Beurteilung Führungsstil
