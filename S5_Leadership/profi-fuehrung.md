@@ -44,7 +44,22 @@ Bei einigem Nachdenken gleicht ein Symphonieorchester ei- gentlich vielen andere
 
 Wer hat die Kontrolle?
 
-##VL Diskussion
+##VL Diskussion - 2018-01-12
 
 Substitute:
   Aufgabe: Hypothesen entwickeln
+ 1. Finden Sie für das von Ihnen zugeteilte Führungsverahlten mindestens fünf Substitue
+ 2. Notieren Sie die Substitute unter der entsprechneden Kategorie von Führungsverhalten
+ 3. 10 Min Zeit
+
+Ebenene:
+    Mitarbeiter:
+
+    Aufgabge:
+    
+    Gruppe:
+    
+    Organistaion:
+    
+    Umfeld:
+ 

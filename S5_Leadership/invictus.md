@@ -66,7 +66,10 @@ Julian Lewis Jones als Nelson Mandelas Leibwächter
 
 ##Handlung
 
-##Analyse
+Der neue Präsident Neslon Mandela, wird nach 27 jahren Haft der neue Präsident von Südafrika, er hat die Aufgabe eine misserable Wirtschaft, Politik und Gesselschaft zusammenzuführen und zu verbessern. In seinen 27 Jahren Haft, hat er sich sämtliche Situationene und auch Sitten von weißen Engländern studiert. Diese Anaylse hilft Ihm bei seiner späteren Tätigkeit als Präsident enorm. Seine Herrschaft und Führung schafft es mit dem beliebten Rugby der weißen Engländer aus Südafrika wieder eine starke Nation zu machen. Sein eigenes Fleisch und Blut, also die heimischen Afikaner muss er hierbei ziemlich zurückweisen und in seinen Plan integrieren. Dieses sehr verärgerte und unterdrückte Volk muss lernen, dass wenn der Feind bekämpft oder bekriegt wird, es verherende Folgen hat. Diesen Weitblick vermittelt Ihnen Mandela mit einer mutigen Idee, diese auf keiner Garantie und mit sehr hohem Risiko zusammenhängt. Jederzeit können die dunkelhäutigen Afrikaner (43 Mio), die weißen Kollonieeinzügler (270000) attackieren.
+
+
+##Analyse der Handlung
 
 Der Begriff Führungsstil bezeichnet ein langfristiges, relativ stabiles, von der Situation unabhängiges Verhaltensmuster einer Führungskraft, das zugleich die Grundeinstellung gegenüber den Mitarbeitern zum Ausdruck bringt.
 
@@ -76,3 +79,20 @@ Alle Führungsstile durchgehen.
 Theoretiker der Führungsforschung: Welcher Zusammenhang gibt es zwischen Situation und die Führung?
 -> Jede Situation erfordert seine eigen Führungshandlung oder Führungsstil.
 -> Führung ergänzt die Situation!
+
+Substitute:
+  Aufgabe: Hypothesen entwickeln
+ 1. Finden Sie für das von Ihnen zugeteilte Führungsverahlten mindestens fünf Substitue
+ 2. Notieren Sie die Substitute unter der entsprechneden Kategorie von Führungsverhalten
+ 3. 10 Min Zeit
+
+Ebenene:
+    Mitarbeiter:
+
+    Aufgabge:
+    
+    Gruppe:
+    
+    Organistaion:
+    
+    Umfeld:
