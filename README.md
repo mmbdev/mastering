@@ -41,11 +41,11 @@ Major of Information Sience and Data Engineering - MBA
    - Advanced Information Retrival
    - Leadership
 
-Conclusion:
+## Conclusion:
   This Major and MBA contains a lot of theoretic and psychological information and knowledge content. 
   This is not a computer science or computational linguistics study.
   
-About the content:
+## About the content:
   The content is filled gradually.
   
 For questions, feel free and ask me.
