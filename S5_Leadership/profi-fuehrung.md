@@ -66,3 +66,11 @@ Ebenene:
     
     Umfeld:
  
+ Thesenbildung:
+ 1. Die künstlerische Qualität eines Konzertes wird bestimmt durch die Stimmigkeit der Interpretation
+ 2. Die Stimmigkeit der Interpretation hängt ab vom Grad der Koordination im Orchester
+ 3. Die Aufgabe des Dirigenten ist es, die künstlerische Kompetenz festzulegen, Abweichungen zu diagnostizieren und zu korrigieren
+ 4. Diese direktive Form der Führung wird von den Musikern akzeptiert, wenn sie durch das Charisma des Dirigenten ergänzt wird (in Ihrem Sinn ist)
+
+ Empire: 
+ Direktive-charismatische Führung > Motivation Musiker > Kooperation Orchester > Künstlerische Qualität
