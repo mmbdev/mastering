@@ -10,8 +10,8 @@ Major of Information Sience and Data Engineering - MBA
    - Coroperate Communciation
    - Corporate Responsibility
    - Introduction to Data Management and Analysis
-   - Qualitatie Research Methods
-   - Quantitative Research Methods
+   - Qualitatie Research Methods (Survey Questionary)
+   - Quantitative Research Methods (Mathematic Statistical Analysis)
    - Research Design
     
   S2:
@@ -21,7 +21,7 @@ Major of Information Sience and Data Engineering - MBA
    - Pratice Project
    - Sepcific Research Methods
    - Strategic Management
-   - User Interface Design
+   - User Interface Design (UI, UX, UD)
     
   S3:
    - Advanced Information Retrival
@@ -43,6 +43,7 @@ Major of Information Sience and Data Engineering - MBA
 
 ## Conclusion:
   This Major and MBA contains a lot of theoretic and psychological information and knowledge content. 
+  
   This is not a computer science or computational linguistics study.
   
 ## About the content:
