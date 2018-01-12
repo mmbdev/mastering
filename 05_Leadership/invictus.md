@@ -75,3 +75,4 @@ Alle Führungsstile durchgehen.
 
 Theoretiker der Führungsforschung: Welcher Zusammenhang gibt es zwischen Situation und die Führung?
 -> Jede Situation erfordert seine eigen Führungshandlung oder Führungsstil.
+-> Führung ergänzt die Situation!

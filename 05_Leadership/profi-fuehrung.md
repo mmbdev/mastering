@@ -17,8 +17,6 @@ Stichpunkte für die Führungsanalyse:
   - Informationen sind Partituren und nicht Budgets (wie im Business)
   - 
 
-
-
 „Managerial Behavior: Administraion in Complex Organizations“
 (1964 erschienen im Verlag Mc Graw-Hill ) schrieb er: „(Der Manager) gleicht dem Leiter eines Symphonieorchesters, der eifrig bemüht ist, für ein geglücktes Musikerlebnis zu sorgen ... während seine Musiker sich mit diversen persönlichen Pro-
 blemen herumschlagen, die Notenständer von Bühnenarbeitern hin und her getragen werden, die Klimaanlage verrückt spielt, so daß Zuhörer und Instrumente leiden, und der Sponsor im letzten Augenblick auf unvernünftigen Änderungen am Programm besteht.“
@@ -48,3 +46,5 @@ Wer hat die Kontrolle?
 
 ##VL Diskussion
 
+Substitute:
+  Aufgabe: Hypothesen entwickeln
