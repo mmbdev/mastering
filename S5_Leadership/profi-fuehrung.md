@@ -1,10 +1,10 @@
-#Leadership letze Fallstudie "Profis bedürfen sanfter Führung"
+# Leadership letze Fallstudie "Profis bedürfen sanfter Führung"
 
-##Personas
+## Personas
 Bramwell Tovey, der künstleri- sche Leiter und Dirigent des Winnipeg Symphony Orchestra
 
 
-##Handlung
+## Handlung
 Führung in einem Orchester
 
 Stichpunkte für die Führungsanalyse:
@@ -39,14 +39,14 @@ Beherrscht ein Musiker sein Instrument nicht gut genug, so kann er ersetzt werde
 
 Tatsächlich fühlt sich er am wohlsten, wenn er sich ganz auf die Musik beschränken und selbst Kla vier spielen oder komponieren kann. Vermutlich liebt er diese Tätigkeiten nicht zuletzt deshalb, weil er dabei niemanden führen muß oder selbst geführt wird.
 
-##Fuehrungsstil
+## Fuehrungsstil
 Bei einigem Nachdenken gleicht ein Symphonieorchester ei- gentlich vielen anderen professio- nellen Organisationen, egal ob es sich beispielsweise um Unternehmensberatungen oder Krankenhäuser handelt. Sie alle sind um die Arbeit von hochqualifizierten Menschen herum aufgebaut, die auch ohne betriebsintern vorgeschriebene Verfahrensgänge oder Zeitstudien- analytiker wissen, was sie tun müssen und es auch tatsächlich tun. Diese fundamentale Tatsache bringt viele vorgefaßte Meinungen ins Wanken, die wir über Management und Führung hegen und nährt die Vermutung, daß verdeckte Führung vielleicht eine größere Rolle spielt als augenscheinliches, offenes Führen.
 
 Wer hat die Kontrolle?
 
-##VL Diskussion - 2018-01-12
+## VL Diskussion - 2018-01-12
 
-Substitute:
+### Substitute:
   Aufgabe: Hypothesen entwickeln
  1. Finden Sie für das von Ihnen zugeteilte Führungsverahlten mindestens fünf Substitue
  2. Notieren Sie die Substitute unter der entsprechneden Kategorie von Führungsverhalten

@@ -1,14 +1,14 @@
-#Film Invictus Führungsstilanalyse
+# Film Invictus Führungsstilanalyse
 
 (Unbezwungen)
 Buch zum Film:
 Wie aus Feinden Freunde wurden (Original: Playing the Enemy: Nelson Mandela and the Game That Made a Nation)
 
-##Kurzfassung zur Führung
+## Kurzfassung zur Führung
 - Offener Fürungsstil mit Argumentation der Begründung vom Präsidenten Mandela.
 - Gleichberechtigung von Schwarz und Weiß
 
-##Gedicht/Entstehung/Titelverleihung
+## Gedicht/Entstehung/Titelverleihung
 Der Titel des Films bezieht sich auf das Gedicht „Invictus“ von William Ernest Henley, das dem Widerstandskämpfer und späteren Präsidenten Südafrikas, Nelson Mandela, während der Jahre seiner Haft Halt und Trost gegeben hatte.
 
 Aus finstrer Nacht, die mich umragt,
@@ -32,7 +32,7 @@ Ich bin der Käpt’n meiner Seel.
 
 US-Präsident Barack Obama zitierte die letzte Strophe des Gedichtes anlässlich seiner Rede zur Gedenkfeier für Nelson Mandela am 10. Dezember 2013.
 
-##Personas
+## Personas
 
 Morgan Freeman: Nelson Mandela
 Nelson Rolihlahla Mandela [nelsɒn xoˈliɬaɬa manˈdeːla] (* 18. Juli 1918 in Mvezo, Transkei; † 5. Dezember 2013 in Johannesburg), in Südafrika häufig mit dem traditionellen Clannamen Madiba bezeichnet, oft auch Tata genannt (isiXhosa für Vater), Initiationsname Dalibunga, war ein führender südafrikanischer Aktivist und Politiker im Jahrzehnte andauernden Widerstand gegen die Apartheid, sowie von 1994 bis 1999 der erste schwarze Präsident seines Landes.
@@ -64,12 +64,12 @@ Charl Engelbrecht: Garry Pagel
 Graham Lindemann: Kobus Wiese
 Julian Lewis Jones als Nelson Mandelas Leibwächter
 
-##Handlung
+## Handlung
 
 Der neue Präsident Neslon Mandela, wird nach 27 jahren Haft der neue Präsident von Südafrika, er hat die Aufgabe eine misserable Wirtschaft, Politik und Gesselschaft zusammenzuführen und zu verbessern. In seinen 27 Jahren Haft, hat er sich sämtliche Situationene und auch Sitten von weißen Engländern studiert. Diese Anaylse hilft Ihm bei seiner späteren Tätigkeit als Präsident enorm. Seine Herrschaft und Führung schafft es mit dem beliebten Rugby der weißen Engländer aus Südafrika wieder eine starke Nation zu machen. Sein eigenes Fleisch und Blut, also die heimischen Afikaner muss er hierbei ziemlich zurückweisen und in seinen Plan integrieren. Dieses sehr verärgerte und unterdrückte Volk muss lernen, dass wenn der Feind bekämpft oder bekriegt wird, es verherende Folgen hat. Diesen Weitblick vermittelt Ihnen Mandela mit einer mutigen Idee, diese auf keiner Garantie und mit sehr hohem Risiko zusammenhängt. Jederzeit können die dunkelhäutigen Afrikaner (43 Mio), die weißen Kollonieeinzügler (270000) attackieren.
 
 
-##Analyse der Handlung
+## Analyse der Handlung
 
 Der Begriff Führungsstil bezeichnet ein langfristiges, relativ stabiles, von der Situation unabhängiges Verhaltensmuster einer Führungskraft, das zugleich die Grundeinstellung gegenüber den Mitarbeitern zum Ausdruck bringt.
 
@@ -80,7 +80,7 @@ Theoretiker der Führungsforschung: Welcher Zusammenhang gibt es zwischen Situat
 -> Jede Situation erfordert seine eigen Führungshandlung oder Führungsstil.
 -> Führung ergänzt die Situation!
 
-Substitute:
+### Substitute:
   Aufgabe: Hypothesen entwickeln
  1. Finden Sie für das von Ihnen zugeteilte Führungsverahlten mindestens fünf Substitue
  2. Notieren Sie die Substitute unter der entsprechneden Kategorie von Führungsverhalten
