@@ -4,6 +4,29 @@
 Buch zum Film:
 Wie aus Feinden Freunde wurden (Original: Playing the Enemy: Nelson Mandela and the Game That Made a Nation)
 
+## Aufgabenstellung
+
+Die Studierenden erstellen im Modul 'Leadership' eine Führungsstilanalyse anhand eines ausge-
+wählten Spielfilmes in Dreierteams. Diese Führungsstilanalyse enthält die folgenden Aufgabenstel-
+lungen:
+
+1. Die Studierenden beschreiben den Führungsstil der im Film dargestellten Führungskraft
+aus der Sicht des aussenstehenden Betrachters anhand des nachfolgenden Fragebogens.
+
+2. Die Studierenden sammeln Beispiele von konkreten Führungsverhalten der Führungskraft und ordnen diese den im Fragebogen beschriebenen Führungskategorien (aufgabenorientierte, mitarbeiterorientierte, direktive, partizipative, delegative, transaktionale, charismatische Führungsverhalten) zu.
+
+3. Die Studierenden beschreiben die im Film dargestellte Führungssituation (Merkmale der
+Mitarbeitenden, der Aufgabenstellungen, der Gruppe, der Organisation und des Umfeldes)
+so konkret wie möglich und illustrieren ihre Beschreibung mit konkreten Beispielen aus
+dem Film.
+
+4. Die Studierenden schätzen die Bedeutung der verschiedenen Führungskategorien im
+Rahmen der im Film dargestellten Führungssituation anhand des nachfolgenden Fragebo-
+gens ein und begründen ihre Einschätzungen mittels der situativen Führungstheorien.
+
+5. Die Studierenden vergleichen den 'idealen' und den im Film gezeigten Führungsstil und
+entwickeln Vorschläge, wie die Führungskraft ihre Führungseffektivität erhöhen könnte.
+
 ## Kurzfassung zur Führung
 - Offener Fürungsstil mit Argumentation der Begründung vom Präsidenten Mandela.
 - Gleichberechtigung von Schwarz und Weiß

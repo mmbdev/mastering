@@ -72,5 +72,21 @@ Ebenene:
  3. Die Aufgabe des Dirigenten ist es, die künstlerische Kompetenz festzulegen, Abweichungen zu diagnostizieren und zu korrigieren
  4. Diese direktive Form der Führung wird von den Musikern akzeptiert, wenn sie durch das Charisma des Dirigenten ergänzt wird (in Ihrem Sinn ist)
 
- Empire: 
+ 
+
+Pfeilrichtungen und Pfeile für Stärke des Führungsstils anhand der Substitute auf alle 5 Felder?!
+    aufgabenorientierte 
+    mitarbeiterorientierte 
+    direktive 
+    partizipative 
+    delegative 
+    transaktionale 
+    charismatische
+
+## AbschlussThese
+
+Ausgangspunkt gleiche Wertvorstellung von Dirigent und Orchester.
+Forschungsstudie und Analyse hat folgendes dazu ergeben:
+
+Empire: 
  Direktive-charismatische Führung > Motivation Musiker > Kooperation Orchester > Künstlerische Qualität
