@@ -1,4 +1,4 @@
-# Vl slides
+# VL slides
 
 ## Overview
 
