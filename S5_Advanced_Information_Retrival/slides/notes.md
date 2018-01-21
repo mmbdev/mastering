@@ -82,7 +82,9 @@ Informatin Retrival Prozess:
 
 Modell zum IR-Prozess, s. Folie 34.
 
-Ausblick: Inhaltserschließung:
+### Ausblick Themengebiete 
+
+Inhaltserschließung:
   - Abstracting . Indexierung mit Termen (Manuell, Auto, Grund und Stammformenreduktion, Termgewichtung, Auto Abstracting)
   - Kontrollierte Vokabulairen mit Thesauri
   - Klassifikationsschema
@@ -101,16 +103,106 @@ Auf Metaebene des Information Retrivals betreiben wir Wissensmanagement.
 
 das richtige Wissen definieren, identifizieren und strukturieren.
 
-Prozess:
-Kultur:
-Infrastruktur:
+### Retrival
+
+  Prozess: Installation eines kontinuierlichen Wissensmanagementes
+  Kultur: Wissensaustausch muss belohnt werden
+  Infrastruktur: Abbilden der Inhalte auf Meiden
+
+Abbildung aller Retrivalmodelle und Eigenschaften mit mathematischem Fundament, s. Folie 38.
+
+Die Unterscheidung zwischen Dateneben und Metaebne ist nicht trivial:
+
+  Beschreibung der Beschreibungssprache					    Meta
+  Beschreibungsprachensyntax					       Meta Data - Beschreibung Language
+  Schemabescheibungssprache				 		  Meta Data - Schema - Definition
+  Datenbankschema des OPAC					 Meta Data - Data Base Schema
+  Daten auf der Datenbank des OPAC		Meta Data - Info Sys
+  In der Bib vorhandene Literatur		Data - Bib
+
+## K2 Abstracting
+
+Gibt kurz und klar den Inhalt eines Dokumentes wieder.
+
+Inhaltsverzeichnis / Auszug / Zusammenfassung / Kurzreferat / Sammelreferat / Rezession / Bericht
+
+							(Sig. Worte)^2    (2)^2
+							--------------	  -----
+Signalwörter eines Satzes =  Anzahl Wörter	    2   = 2 
+
+Satz mit höchstes Sig. ausgeben. 
+
+## K3 Indexierungstechniken
+
+  Indexieren-Verschlagwortung einer Dokumenten-Einheit durch Deskriptoren (Index-Terms)
+  ST-Supplementary Terms CT-kontrollierten Vokabular
+  Stoppworte: keine Betrachtung {ich, du, er, sie, es, der, die, das, ein, eine, einer}
+  einfache Reduktionsverfahren: 
+   - Ersetzen der Wortendungen durch Stammendungen
+   - Verfahren mit Wortform-Wörterbuch
+
+Grundsätzliche Arten der Post/Prä-Koordination:
+  Post:
+   - erst bei Suchanfrage Term-Kombis
+   - structured indexing
+
+  Prä:
+   - Zusammenbau bereits bei Indexierung
+   - coordinate indexing
+
+Terme bekommen Attribute:
+  - Gewichtung von Deskriptoren: Indexierung, linguistische Verfahren, Evaluierung
+  - Qualifiers (Rollenindikatoren) Italien (E), am gängisten und häufigsten in der Chemie
+
+  		Häufigkeit in der t im Dok vorkommt
+  g+= 	------------------------------------- 
+  		Anzahl der Doks, in denen t vorkommt
+
+Bsp.: "Information AND Retrival" 
+  - Dok1: Info 0,01, Retrival 0,012 = 0,012
+  - Dok2: Info 0,03, Retrival 0,01 = 0,04
+
+Relevanz-Ranking: Dok2, Dok1
+
+## K4 Spracherkennung und Rechtschreibungserkennung N-Gramme
+
+N-Gramme: Zerlgung von Wörtern, Sätzen, Texten bestehen aus Buchstaben, Graphemen oder Phoemen
+
+HALLO WELT = M = {'HAL', 'ALL', 'LLO','LO_','O_W','_WE','WEL','ELT'} N = 3 (Trigramm)
+
+Für jede Sprache sind bestimmte Häufigkeiten von N-Grammen bestimmt.
+
+Anwendungsfelder:
+ - Spracherkennung, Maschinelles Übersetzen, Themenerkennung, Rechtschreibkorrektur, Forensik, OCR-Prozesse, Kontextbestimmung
+
+### Dice-Koeffizient
+d(wirk, word) = ... -> s,Uebungsblatt! 
+Uebung: Passt work oder word besser auf wirk?
+
+Wahl von N 
+  -> großes N = wenige Beispiele für jedes N-Gramm
+  -> kleines N = viele Beispiele, aber Vorhersage dafür ungenau
+
+guter Kompromiss - Empirische Bewertung wird N=2 oder N=3 gesetzt.
+
+## K5 Boole'sche Retrivalmodell
+
+Mengen Operationen: Begriff1 AND/OR/NOT Begriff2
+
+  Nachteile:
+   - Disjunkte Unterteilung in relevant / unrelevant
+   - alle Doks sind gleichberechtigt, kein Ranking
+   - Erwünschter Umfang schwer kontrollierbar
+
+-> Verbesserung durch Advanced im Auto-Abstracting!
+funktioniert aktuell nur in engen Kontexten.
+
+## K6 Retrival - Effektivität - Recall and Precision
+
+Situative Relevanz, Pertinenz (Subjektive empfundene Nützlichkeit), Objektive Relevanz (Neutrale Beobachtung), System Retrival (berechnet vom System)
 
 
-## K2
-## K3
-## K4
-## K5
-## K6
+
 ## K7
 ## K8
 ## K9
