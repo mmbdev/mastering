@@ -11,24 +11,28 @@ Information Retrival ist die Schnittmenge von:
 
 Anwendungsgebiete:
 
-  - Informationsbeschaffung der Unternehmen
-  - Fachinformationen
-  - Bibliotheken und andere Infodienstleister
+  - Informationsbeschaffung der Unternehmung (Patente, Kreditwürdigkeit, Fachinfos, Literatur)
+  - Fachinformationen (Genome, Kernresnanzspektren)
+  - Bibliotheken und andere Infodienstleister - Bestandsinformationen (Recherche in Beständen)
 
 Abgrenzung zu benachbarten Gebieten:
 
-  - Strukturen erkennen (Exploration) Data / Text-Mining
+  - Strukturen erkennen (Exploration): Data- / Text-Mining
   - Benuterfragenorientierte Sicht / kogitive Prozesse / organ. Randbedingungen
   - Information -> Representation, Speichern, Organisieren und Auffinden
 
-Traditionelle Signatursysteme aus Biblothekswesen sind unscharf, dieses Problem trifft Klassifikationssysteme generell.
+
+Herausforderung:
+  Das Wissensvolumen wächst immer mehr.
+  Traditionelle Signatursysteme aus Biblothekswesen sind unscharf, dieses Problem trifft Klassifikationssysteme generell.
+  Expandierende/neue Wissensgebiete sind für Signatursysteme durch ihre Interdisziplinarität problematisch
 
 Typologie: 
-   Info-Retrival System -> Frage/Antwort-System
-   Database-Mgmt -> Mgmt-Info-System
+  Info-Retrival System -> Frage/Antwort-System
+  Database-Mgmt -> Mgmt-Info-System
 
 Grundfunktion:
-   Suchanfragen -> Inforsprache -> Dokumente (Infoeinheit)
+  Suchanfragen -> Inforsprache -> Dokumente (Infoeinheit)
 
 gängige Indexsprachen:
   - Abstracts
@@ -43,12 +47,19 @@ gängige Indexsprachen:
 
 Retrival auf einfachen Strukturen:
 
-  - Linerae Liste: 					Avarage Case (n+1)/2 Elementen ist ein Treffer
-  - Binäre Suche:					log2(n+1) - Vergleiche für Treffer notwendig
+  - Linerae Liste: 					        Avarage Case (n+1)/2 Elementen ist ein Treffer
+  - Binäre Suche:					          log2(n+1) - Vergleiche für Treffer notwendig
   - Squentielle geordnete Suche:  	"key"-Attribut, log2(n+1)
-  - Indizierte Daten:				log2(n+1), + kleinerer Index, - neue Datei schaffen
+  - Indizierte Daten:				        log2(n+1), + kleinerer Index, - neue Datei schaffen
 
 Relationales Datenbankmodell: Name-Person*-----0..1Artikel-SI*
+  Vorteil: sehr komplexe Strukturen möglich. Strukturen sind eine Art Inhaltserschließung und fast ontologie-like lesbar.
+  Gängige Abfragesprache: Sequential Query Language (SQL)
+
+Übung:
+  Stellen Sie die Rechenaufwände beim Suchen in Abhängigkeit von in einem Koordinatensystem dar.
+  X-Achse: n
+  Y-Achse: Rechenaufwand (notwendige Schirtte zum Suchen)
 
 Datenbankanalyse als technische Grundlage von Rechneranwendungen:
 
@@ -59,7 +70,7 @@ Admin	---> OS
 Information Retrival in kommerziellen Datenbanken:
   - Bibliograische DB 	(Fach, Nationalbibliotheken)
   - Faktendatenbanken 	(Adressen und Firmen)
-  - Volltext-DB			(Zeitungen)
+  - Volltext-DB			    (Zeitungen)
   - Ton,Multimedia,Links,Zitats, Nummerische-DB
   - Biografische DB
 
@@ -80,7 +91,7 @@ Informatin Retrival Prozess:
   ! Suchanfrage / Anzeige
   ! Datenbank
 
-Modell zum IR-Prozess, s. Folie 34.
+Modell zum IR-Prozess, s. Folie 34/35.
 
 ### Ausblick Themengebiete 
 
@@ -122,7 +133,7 @@ Die Unterscheidung zwischen Dateneben und Metaebne ist nicht trivial:
 
 ## K2 Abstracting
 
-Gibt kurz und klar den Inhalt eines Dokumentes wieder.
+DIN1426 - ein Abstract gibt kurz und klar den Inhalt eines Dokumentes wieder.
 
 Inhaltsverzeichnis / Auszug / Zusammenfassung / Kurzreferat / Sammelreferat / Rezession / Bericht
 
