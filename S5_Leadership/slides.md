@@ -77,3 +77,16 @@ Mitarbeiter <- Aufgabe <- Gruppe <- Organisation <- Umfeld
     	!<-		Valenz	<-------------  Ergebnis    
 
 	
+## Andere Quellen
+
+- http://www.businessinsider.de/kim-scott-fuehrungskraft-fehler-leitung-2017-3
+
+  „Radical Candor“ (auf Deutsch: Radikale Offenheit) ist der effektivste von vier Führungsstilen
+  Führungsstil als „unausstehliche Aggression“.
+
+  Radikale Offenheit vereint die Eigenschaft, sich um andere zu kümmern, aber zugleich fordernd zu sein.
+  Dennoch sollte man Lob am Ende des Tages öfter einsetzen als Kritik. 
+
+  schlechteste Führung -> „manipulative Unehrlichkeit“
+  „Menschen geben dann falsches Lob und falsche Kritik, wenn sie zu sehr gemocht werden wollen oder denken, einen strategischen Vorteil für sich selbst rausholen zu können — oder aber auch, wenn sie zu faul sind, sich um andere zu kümmern oder etwas auszudiskutieren.“
+
