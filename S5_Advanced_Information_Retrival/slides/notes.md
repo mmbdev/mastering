@@ -142,6 +142,7 @@ Inhaltsverzeichnis / Auszug / Zusammenfassung / Kurzreferat / Sammelreferat / Re
 Signalwörter eines Satzes =  Anzahl Wörter	    2   = 2 
 
 Satz mit höchstes Sig. ausgeben. 
+Zerlegung von Sätzen in Phasenstrukturbäume (AP: Adjektivphrasen, NP: Nominativpphrasen, PP: Präpositionalphrasen, Rels: Relativsatz)
 
 ## K3 Indexierungstechniken
 
@@ -149,8 +150,9 @@ Satz mit höchstes Sig. ausgeben.
   ST-Supplementary Terms CT-kontrollierten Vokabular
   Stoppworte: keine Betrachtung {ich, du, er, sie, es, der, die, das, ein, eine, einer}
   einfache Reduktionsverfahren: 
-   - Ersetzen der Wortendungen durch Stammendungen
+   - Ersetzen der Wortendungen durch Stammendungen - Grund und Stammformenreduktion
    - Verfahren mit Wortform-Wörterbuch
+  advanced = vollautomatisch
 
 Grundsätzliche Arten der Post/Prä-Koordination:
   Post:
