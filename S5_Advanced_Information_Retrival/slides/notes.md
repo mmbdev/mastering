@@ -188,6 +188,10 @@ Für jede Sprache sind bestimmte Häufigkeiten von N-Grammen bestimmt.
 Anwendungsfelder:
  - Spracherkennung, Maschinelles Übersetzen, Themenerkennung, Rechtschreibkorrektur, Forensik, OCR-Prozesse, Kontextbestimmung
 
+Übung: Berechnen Sie
+  A = P(EN,"Garten")
+  B = P(DE."Garten")
+
 ### Dice-Koeffizient
 d(wirk, word) = ... -> s,Uebungsblatt! 
 Uebung: Passt work oder word besser auf wirk?
@@ -213,19 +217,181 @@ funktioniert aktuell nur in engen Kontexten.
 ## K6 Retrival - Effektivität - Recall and Precision
 
 Situative Relevanz, Pertinenz (Subjektive empfundene Nützlichkeit), Objektive Relevanz (Neutrale Beobachtung), System Retrival (berechnet vom System)
+  
+  Typisches Szenario:
+  10000 Suchdokumente, 70 Treffer bei einer Suchanfrage (tp+fp)
+  30 Dok der gefundenen sind relevant, 40 unrelevant
+  In Wirklichkeit 20 Doks sind noch mehr relevant, bewegen sich aber in der Grauzone und wuden nicht gefunden.
+
+  - true positives (tp)   -> relevant gefundene Doks
+  - false positives (fp)  -> nicht relevant gefundene Doks
+  - flase negatives (fn)  -> nicht gefundenen Doks
+  - ture negatives (tn)   -> nicht nachgewiesenen / ungefundene Doks
+
+                  ! relevant  ! unrelevant !
+  ----------------------------------------------
+  gefunden        ! (tp)      ! (fp)
+  nicht gefunden  ! (fn)      ! (tn)
+
+  Beurteilung des Verteilungsergebnisses:
+
+  Precision:      (Genauigkeit der Relevanz)            = tp / (tp + fp)
+  Recall:         (Vollständigkeit oder Nachweisquote)  = tp / (tp + fn) 
+  Fallout Ratio:  (Ausfallqoute)                        = fp / (fp + tn) 
+
+Recall-Problem: Vorraussetzung für die Recall-Beurteilung ist die Kentniss über die volle Datenmenge (Antwortmenge).
+  Recall drückt aus; was nicht gefunden wurde, aber vorhanden gewesen ist.
+
+  Precision: Relevanz oder nicht Relevanz der Dokumente zeigen; wichtig Benutermodell - an was wird die Relevanz gemessen.
+
+  Einflussfaktoren:
+   - Qualität der Indexierung
+   - Retrivalstrategie / Anfrageformulierung
+
+  Praktischer Nutzen:
+   - vergleichenden Betrachtung von Retrival-Systemen, Komponenten oder Recherche von Personen
+
+  Ein solches Suchmusteranfragendiagramm ensteht nach mehreren Recherchevorgängen:
+
+  Precisio
+   !
+   !      ^(1x1) wäre Optimum
+   !    °DB2
+   ! °DB1
+   ! 
+   ---------> Recal 
+
+   Gängige mathematische Berechnungsverfahren:
+    - Accuraacy Ac = (tp + tn) / (tp + fp + fn +tn) (Alle richtig zugeordneten Doks / alle Doks)
+    - F-Measure 
+              2*P*R
+              ------
+      Fß=1 =  P + R
+
+    Maßnahmen bei zu wenigen Treffern im Ergebnis:
+     - AND verrignern, mehr OR-Verküpfungen
+     - Mutlidatabase, Tippfehler, Synoyme / Abkürzungen
+     - Trunkierung, Klassifikationscodes
+
+    Maßnamen bei zu vielen Treffern im Ergebnis:
+     - OR verringern, mehr AND-Verknüpfungen
+     - Terminologie
+     - Datenbank, Anzahl der Suchfelder einschränken (nur CT)
+
+## K7 Kontrolliertes Vokabular mit Thesauri
+
+Thesaurus: Alle für die Indexierung bereitstehenden Begriffe sind festgeschrieben.
+
+ - termologische Kontrolle durch Erfassung von Syn., Homonymen, Festlegung von Verzugsbenennungen
+ - Darstellung der Beziehungen zwischen Begriffen
+ - Polyhierarchien sind möglich 
+
+  Gängige Abkürzungen:     Modebegriff
+                        Term
+                      Unterbegriff
+                    Unter-Unter-Begriff
+
+  Bsp.: Folie 28
+
+  Thesaurusrelationen:
+    BT - Boader Term
+    NT - Narror Term
+    RT - Related Term
+    UF - Used For
+    USE - Use
+    TT - Top Term
+
+  Postkoordination -> z.B. kein Thesaurus (structured indexing)
+  Präkoordination -> z.B. Thesaurus (coordinate indexing)
+    alle für die Indexierung bereitstehenden Begriffe sind festgeschrieben
+
+  Vor/Nachteile:
+  + geringerer Formulierungsaufwand gegenüber Freitextsuche
+  + weniger linguistische Probleme, eindeutiger
+  - altes Vokabular, teuerer in der Erstellung der DB
+  - Indexierungsfehler, fehlende Treffer
+
+  Prototypisches IR-System mit Thesaurus, s. Folie 32.
+
+Übung: Erstellen Sie einen Thesaurus zum Thema Hochschule. (sollte 5-10 Begriffe enthalten)
 
 
+## K8 Kalssifikation
 
-## K7
-## K8
-## K9
-## K10
-## K11
-## K12
-## K13
-## K14
-## K15
-## K16
-## K17
-## K18
-## K19
+Unterscheidung zwischen:
+ - Prozess der Klassifikationserarbeitung
+ - Klassifikationssystem als Ergebnis des Klassenbildungsprozesses
+ - Prozess der Klassifizierung
+
+                Schiff
+                  !
+          !-------!---------!--------------------------!
+          !                 !                          ! 
+      Fahrgastschiff    Frachtschiff              Fischerboot
+                            !
+                    !-------!------!-------------------!
+                    !              !                   !
+                Tankschiff     Kühlschiff       Massengutschiff
+
+  Monohierarchie: nur eindimensionale Suche möglich
+  Gattungsbegriff: Schiff; Artbegriff: Frachtschiff (Frachtschiff kann auch Gattungsbegriff sein, z.B. Von Tankschiff)
+
+     Personentransport           Schiff               Fischerei
+       !                           !                      !  
+       !   !-------!---------!--------------------------! !
+       !   !                 !                          ! !
+      Fahrgastschiff    Frachtschiff                Fischerboot
+                            !
+                    !-------!------!-------------------!
+                    !              !                   !
+                Tankschiff     Kühlschiff       Massengutschiff
+
+  Polyhierarchie: Gleichzeitige Recherche unter mehreren Aspekten (mehrdimensionale Suche)
+
+Ketten: von oben nach unten (Schiff, Frachtschiff, Tankschiff)
+Ebenen: von rechts nach links (Tankschiff, Kühlschiff, Massengutschiff)
+
+Prototypisches IR-System mit Klassifikation, s. Folie 41.
+
+Klassifikationssystem-Typen:
+  Analytische Klassifikationen: vom Allg. zum Speziellen immer feiner werdent (Drichter)
+  Facettenklassifikation (Analytisch-synthesische Klassifikaiton)
+   - Merkmalsbegriffe eines Wissensgebietes (Facetten) - (Eigenschaften, Personen, Zeit, etc. ) zusammenführen
+
+   Bsp.: Facettenklassifikation
+   Sachverhalt: Verhütung von Hautkrankheiten von Chemiearbeitern
+   Notation: CgHeMbi
+
+  Eigenschaften:
+   - Universalität (gesamte Wissenschaft geeignet)
+   - Kontinuität (langer Zeitraum verwendbar)
+   - Aktualität (Flexiel erweiterbar)
+
+Klassifikationen basieren auf dem Prinzip der Präkoordination, das bedeutet Begriffe und Begriffskombinationen werden im Zuge der der Erarbeitung der Klassifkation festgelegt.
+
+Vergleich von Klassifikationen und Thesauri:
+  Klassifikation  - sind sys. geordnet; haben viele Wortkombis; präkoordiniert; star; weniger ausdruksfähig - Presicion = hoch!
+  Thesauri        - sind alphabetisch geordnet, wenige Wortkombis; postkoordiniert; flexibel; ausdrucksmächtig - Recall = hoch!
+
+Oft wird zur Klassifizierung mit Klassifikationen und Thesauris gearbeitet -> Hybriderschließung
+
+Beispielklassifizierungen:
+  Dewey-Dezimalklassifkation (DDC)
+  Internationale Patentklassifikation (IPC)
+
+Übung: 
+  Realisieren Sie eine Facettenklassifikation zum Thema Hochschule.
+  Folgende Facetten sollen berücksichtigt werden: Ort, Hochschultyp, Fach, Betätigung
+
+## K9 Ranking in Retrivalsystemen (Relevance Feedback)
+## K10 Retrievalmodelle nach Salton (Vektorraum-Modell)
+## K11 Termgewichtungsverfahren
+## K12 Clusterverfahren
+## K13 Retrivalmodell mit Fuzzy-Mengen
+
+## K14 Graph-Basierte Modelle
+## K15 Probabilistisches Retrivalmodell (BIR)
+## K16 Social Search
+## K17 Vergleich der Retrivalmodelle und Diskussion
+## K18 Kommerziell einsetzbare Retrivalsysteme
+## K19 Text und Webmining
