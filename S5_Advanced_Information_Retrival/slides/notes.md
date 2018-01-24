@@ -616,5 +616,5 @@ Supervised Learning: (User hat Wissen)
  - Übungsaufgaben
  - Skizzen
  - Übungsklausur
- - K17 Fragenstellungen beantworten
+ - K17 Fragestellungen beantworten
 
