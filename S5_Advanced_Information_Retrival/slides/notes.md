@@ -384,14 +384,237 @@ Beispielklassifizierungen:
   Folgende Facetten sollen berücksichtigt werden: Ort, Hochschultyp, Fach, Betätigung
 
 ## K9 Ranking in Retrivalsystemen (Relevance Feedback)
+
+Ranking mit booleschem Retrival; 
+  Vorraussetzung: Gewichtung der Terme bei der Anfrage oder Indexierung
+  Vorteile: 
+   - Rangordnung -> relevanteste Dok steht an Platz 1
+   - Benutzer bestimmt den Abbruch, keine Mengenprobleme
+  Verfahren:
+
+  Dokumente                                   Frage
+      !                                       !   !
+  Dokumentrepräsentation    Fragerepräsentation   !
+      !                       !   !               !
+  Retrivalfunktion<-----------!   !               !
+         !                        !               !
+     Antworten>------------------------------------
+  
+  Moduse:
+   - positiver (alle relevanten Dosk werden berücksichtigt)
+   - negativer (alle nicht relevanten Doks werden berücksichtigt)
+   - gemischter (relevante und irrelevante Doks werden berücksichtigt)
+
 ## K10 Retrievalmodelle nach Salton (Vektorraum-Modell)
+
+  Idee:
+    Jedem Dokument und jeder Frage ist eine Koordinate im mehrdimensionalen Raum zugeordnet.
+    Jeder Term belegt eine Dimension in {0,1}. 
+    Ein Match ist ein Skalarprodukt von 1 zwischen einem Fragevektor und einem Dokumentvektor.
+
+  Skalarprodukt:
+    a*b = |a|*|b|*cos(a,b)
+
+  Schaubild, s. Folie 17.
+  Matrixdarstellung  als Term-Dok-Matrix, s. Folie 18.
+
+  Ähnlichkeitsbestimmung: 
+   - Ähnlichkeit von Dokument- und Anfragevektor repräsentiert die mutmasliche Relevanz eines Doks gegenüber der Suchanfrage
+   - Suchanfrage ist auch als Vektor dargestellt
+   - Skalarpodukt ist mathematisches Vorbild, jedoch gibt es Vereinfachungen
+
+   Fazit:
+   - einfaches Modell, Ähnlichkeit von Doks leicht zu vergleichen
+   - theorie Problem: Annahme der Unabhängigkeit der Terme unteinander
+
+Übung: 
+  Gegeben ist eine Term-Dok-Matrix und eine Anfrage Q. Bilden Sie ein Ranking mit dem Dice-Ähnlichkeitsmass.
+
 ## K11 Termgewichtungsverfahren
+
+Worum es geht? -> Wie entstehen die Einträge der Dokumentvektoren?
+
+Opterionalisierung der Gewichtung von Termen
+  Bestimmung der Terme zur Inhaltsmodellierung der Doks
+
+Inverse Dok-Frequenz, s. Folie 30, 31.
+
+Übung:
+  Gegeben sind 1000 Doks, jedes Dok hat 100 Worte.
+
+  Term1: "Gott" kommt in  10 % der Doks vor, in Dok Di sogar 10 mal
+  Term2: "Chur" kommt nur 1 mal in Dok Di vor.
+
+  Berechnen Sie die Termgewichte T1 und T2 in Dokument Di
+
 ## K12 Clusterverfahren
+
+Klassische Ordnungsinstrumente:
+  - Thesauri
+  - Klassifikaition
+
+sind in der Erstellung aufwendig
+
+Cluster bilden Sich durch:
+ - nebeneinanderliegende Doks/Einheiten
+ - Dokument/Einheitsfolgen
+ - Sternstrukturen
+
+Clusterhypothese: Eng verwandte Doks sind für die selbe Suchanfrage auch in vergleichbarer Weise relevant.
+Clusteranalyse:   ähnliche doer relationale Doks erkennen und verbinden
+
+Über Schwellwert T in Ähnlichkeitsmatirx -> Clusterzugehörigkeit definieren
+ T-groß:  weniger und größere Klassen
+ T-klein: mehrere und kleinere Klassen
+
+Darstellungsmöglichkeiten:
+ - Clusterdia: s. Folie 44
+ - Baum-Klassifikationsschema, s. Folie 45
+ - Cluster-Zenteroide
+
+Algo zum Einfügen eines Doks D in eine Clusterstruktur, s. Folie 50
+Suchen in der hierarchischen Clusterstruktur am Beispiel der Top-Down-Suche, s. Folie 51
+
 ## K13 Retrivalmodell mit Fuzzy-Mengen
 
+Werte auf Begriffe abbilden mit "traditioneller Mengenlehre"
+
+Element x kann mit einer bestimmten Menge unscharf zugehörig sein.
+
+Einsatz: 
+  - Abbildung der Wichtigkeit von Deskriptoren
+  - Abbildung gradueller Relevanz von Doks bei Suchanfragen
+  - Darstellung semantischer Beziehungen von Doks
+
+Übung:
+  Gegeben sind folgende Personen der Menge 
+  U: {Peter, 14; Andi, 23; Ralf, 30; Jule,10; Opa,99}
+  Gegeben sind folgende Zugehörigkeiten
+  0-30 jung
+  20-60 mitte
+  60-max alt
+
+  Bestimmen Sie die Menge der Personen für die jung, mittel, alt zutrifft.
+  Ebenso die Menge der Personen, die jung und mittel zugleich sind.
+  Machen sie jeweils ein Ranking.
+
 ## K14 Graph-Basierte Modelle
+
+Graphentheorie:
+ - Graphen sind mathematische Konstrukte
+ - Elemente sind Knoten und Kanten
+ - Kanten können gerichtet sein
+
+Ein Baum ist eine spezielle Form eines Graphen.
+Um Knoten zu finden -> Auswertung der Beziehungen der Kanten
+Knoten sind html-Seiten, Kanten sind Links <a href>
+
+Indexierung in Goolge: Crawler analysiert HTML-Quelltext auf Links
+
+Nachteil:
+ - es kann Backlinks zur Seite geben (erkauft werden)
+ - keine Aussage über Qualität der Beiträge von Websites
+
+Page-Rank-Übung:
+  Berechnung des Page-Ranks von verschiedenen Topologien von Linkanordnungen.
+
 ## K15 Probabilistisches Retrivalmodell (BIR)
+
+Anwendungsfeld: SPAM-Erkennung bei Mails
+
+
+Retrivalvorgang aus Benutzersicht:
+
+1) Dokument-Retriavl mit Ranking
+2) Nutzer betreibt Relevance Feedback
+3) Relevanzurteil: relevant oder nicht relevant (binär betrachtbar {0,1})
+
++ solides theoretisches Modell, alle Ausnahmen können auf Konkretes abgebildet werden
++ gute Retrivalqualität
+- bestimmte Anwendungen (z.B. SPAM) benötigen Trainingsdaten
+
+Übung: Folie 40
+
 ## K16 Social Search
+
+Motivaiton und Vorläufer:
+ - traditionelle Suchmaschinen verursachen/liefern häufig schlechte Preciscion.
+
+Frage: Wie sucht der Teilnehmer (Social-User)?
+
+Neue Suchmöglichkeiten durch Social-Tagging:
+
+1.) Anfragen wie bei Suchmaschinen
+2.) Geteilte Bestände (Profile) bilden
+3.) Tag Clouds: Größe der Wörter per Termgewichtung
+4.) Kollaborative Filterung
+5.) Community basierte Systeme (Daten und Trophäen -> Motivation für User schaffen)
+
 ## K17 Vergleich der Retrivalmodelle und Diskussion
+
+Modelle:
+  - boolesches Modell
+  - Vektor-Modell
+  - Fuzzy-Modell
+  - Page-Rank-Modell
+  - Probabilistisches-Modell
+  - Social-Search
+
+Fragen hierzu:
+  - Welche Anwendungszenarien fallen Ihnen zu jedem Modell ein?
+  - Wie skaliert jedes Modell bei großen Datenmengen?
+  - Wie verhalten sich Recall und Precision bei den Modellen?
+  - Inwiweit ist Ranking möglich?
+  - Gibt es weitere Kriterien?
+
 ## K18 Kommerziell einsetzbare Retrivalsysteme
+
+Dokumentenmanagement für Bürokontexte:
+- Lösungen: Datev, Docuware, Keytech, Paperless, ...
+
+Retrival: Zugriff aus dem Internet oft nicht möglich
+Keine Taxonomie oder Verschlagworterung
+Fazit: IR-Techniken - Modelle sind noch nicht richtig bei den Herstellern angekommen - keine formalen Standards.
+
+Artefakte sind aber meist nur Texte, welche nicht Gegenstand der Inhaltserschließung und des Retrivals sind.
+
+OpenSource: Apache Lucene (Volltextindexierung und Retrival für Server)
+
+Moderne Erweiterung von Lucene: ELK (Elasticsearch-Logstash-Kibana-Stack)
+
+ Elasticsearch (ES): Spezielle URL Steuerung für Indexaufbau
+ Kibana: Analyse- und Visualiserungsplattform in Form eines browserbasierten Interfaces (Dashboards für ES)
+ Logstash: Datenansamlungsengine zur Zusammenführung von Datn aus heterogenen Quellen.
+
 ## K19 Text und Webmining
+
+Textmining ist die systematische Auswertung von DataMining.
+
+Typische Anwendungen: SPAM-Filtering, Executive-Info-Systems, Sentiment-Analysen
+
+technische Herausfoderungen der Big Data Epoche:
+ - Skalierbarkeit (Nutzandbinung, Performance)
+ - Datenmenge (Zwischenablage der Daten)
+ - Alogrithmus (Zerlegung in Teilaufgaben) -> Map-Reduce
+
+Unsupervised Learning: (User hat kein Vorwissen)
+ - Clusteranalysen
+ - Sentimentanalysen
+ - Kollaborative Filterung
+
+Supervised Learning: (User hat Wissen)
+ - Gnerierung von Entscheidungsbäumen
+ - Probalisitisches Retrival
+ - Support-Vector
+ - Evolutionäre Algos
+
+-----------
+
+## Rapid Miner
+
+## Next Steps:
+ - Übungsaufgaben
+ - Skizzen
+ - Übungsklausur
+ - K17 Fragenstellungen beantworten
+
