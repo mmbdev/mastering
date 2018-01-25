@@ -69,11 +69,11 @@ Mitarbeiter <- Aufgabe <- Gruppe <- Organisation <- Umfeld
 ### Erwartungstheorie
 
     Motivation 	-> 	Anstrengung 	-> 	Leistung
-    	!							! 		!
-    	!<-		Erwartung 	  <-----!		!
-    	!									!
-    	!<-		Instrumentalitä	   <----!
-    	!									!
+    	!							! 		!           !
+    	!<-		Erwartung<----!		        !
+    	!									              !
+    	!<-		Instrumentalität	   <----!
+    	!									!             !
     	!<-		Valenz	<-------------  Ergebnis    
 
 	
