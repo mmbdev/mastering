@@ -21,7 +21,6 @@ Abgrenzung zu benachbarten Gebieten:
   - Benuterfragenorientierte Sicht / kogitive Prozesse / organ. Randbedingungen
   - Information -> Representation, Speichern, Organisieren und Auffinden
 
-
 Herausforderung:
   Das Wissensvolumen wächst immer mehr.
   Traditionelle Signatursysteme aus Biblothekswesen sind unscharf, dieses Problem trifft Klassifikationssysteme generell.
@@ -522,7 +521,6 @@ Page-Rank-Übung:
 
 Anwendungsfeld: SPAM-Erkennung bei Mails
 
-
 Retrivalvorgang aus Benutzersicht:
 
 1) Dokument-Retriavl mit Ranking
@@ -589,15 +587,19 @@ Moderne Erweiterung von Lucene: ELK (Elasticsearch-Logstash-Kibana-Stack)
 ## K19 Text und Webmining
 
 Textmining ist die systematische Auswertung von DataMining.
+Dabei geht es um die Entdeckung nicht offensichtlicher Muster oder Zusammenhänge.
 
-Typische Anwendungen: SPAM-Filtering, Executive-Info-Systems, Sentiment-Analysen
+Typische Anwendungen: 
+ - SPAM-Filtering
+ - Executive-Info-Systems
+ - Sentiment-Analysen
 
 technische Herausfoderungen der Big Data Epoche:
  - Skalierbarkeit (Nutzandbinung, Performance)
  - Datenmenge (Zwischenablage der Daten)
  - Alogrithmus (Zerlegung in Teilaufgaben) -> Map-Reduce
 
-Unsupervised Learning: (User hat kein Vorwissen)
+Unsupervised Learning: (User hat kein Vorwissen -> Exploration)
  - Clusteranalysen
  - Sentimentanalysen
  - Kollaborative Filterung
@@ -608,9 +610,28 @@ Supervised Learning: (User hat Wissen)
  - Support-Vector
  - Evolutionäre Algos
 
+-> Supervised Learning: Entscheidungsbaumerzeuger (Verfahren aus dem Machine Learning)
+
 -----------
 
 ## Rapid Miner
+
+https://rapidminer.com/
+
+Ein Werkzeug und Software für Data-Mining-Szenarien (Java (Opensource))
+Geeignet für Experimente und zur Entwicklung von Datenauswertungen:
+
+ - Datenquellen (Files, DBs, WebZugriffe)
+ - DataMining-Prozesse (Entscheidungsbäume, Bayes, Support-Vector, Regressionsanalyse)
+ - Modellanwender und Cross-Validators
+ - Anzeige aller gängigen Diagrammarten
+ - Speicherung (Files, DB, Web-Zugriffe)
+
+Produktiv: Einbettung einer Prozesskonstellation in ein Java-Programm.
+
+Definition Regressionsanalyse: sind statistische Analyseverfahren, die zum Ziel haben, Beziehungen zwischen einer abhängigen und einer oder mehreren unabhängigen Variablen zu modellieren. Sie werden insbesondere verwendet, wenn Zusammenhänge quantitativ zu beschreiben oder Werte der abhängigen Variablen zu prognostizieren sind.
+
+
 
 ## Next Steps:
  - Übungsaufgaben
