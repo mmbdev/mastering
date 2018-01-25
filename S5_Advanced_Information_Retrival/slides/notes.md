@@ -92,6 +92,22 @@ Informatin Retrival Prozess:
 
 Modell zum IR-Prozess, s. Folie 34/35.
 
+Klassifikation von Retrivalmodellen:
+
+  mathematische Fundamente:
+   - algebraische Modelle stellen Doks als Vektoren, Matrizen oder Tupel dar, diese werden Ähnlickeiten und endliche Anzahl von Rechenoperationen in einem eindimensionalen Ähnlichkeitsmaß überführt
+   - mengentheoretische Modelle, zeichnen natürlichsprachliche Doks auf Mengen ab (AND, OR, NOT)
+   - probabilistische Modelle, sehen den Prozess der Dokumentensuche bzw. der Bestimmung von Dokumentenähnlichkeiten als ein mehrstufiges Zufallsexperiment an. Dokumentenähnlichkeiten werden hier mit Wahrscheinlichkeiten und probabilisitischen Theoremen erfasst (Satz von Bayes)
+
+  Eigenschaften des Modells:
+   - Modelle mit immanenten Terminterdependenzen sagt das Gegentiel von orthogonal oder unabhängig von Termen agenommen wird.
+      Nachweis von interdependent Termen (gemeinsamen Wörtern in einem Dok mit Abhänigkeit zueinander)
+   - Modelle ohne Terminterdependenz sagt zwei Terme sind vollkommen unterschiedlich und keinesfalls miteinander verbunden.
+      Orthogonalität / Unabhängigkeit von Termen bezeichnet
+   - konkrete Ausprägung einer Terminterdependenz zwischen zwei Termen direkt oder indirekt von außerhalb (z.B. Mensch oder Entscheidungsbaum) vorgegeben werden muss.
+
+Information-Retrival hat Querbezüge zu verschiedenen Gebieten der Wahrscheinlichkeitstheorie und Computerlinguistik.
+
 ### Ausblick Themengebiete 
 
 Inhaltserschließung:
