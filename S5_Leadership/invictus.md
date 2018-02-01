@@ -64,7 +64,7 @@ Ab 1944 hatte er sich im African National Congress (ANC) engagiert. Aufgrund sei
 Er war ein herausragender Vertreter im Freiheitskampf gegen Unterdrückung und soziale Ungerechtigkeit.
 Mandela war der wichtigste Wegbereiter des versöhnlichen Übergangs von der Apartheid zu einem gleichheitsorientierten, demokratischen Staatswesen in Südafrika. 1993 erhielt er deshalb den Friedensnobelpreis. Bereits zu Lebzeiten wurde er für viele Menschen weltweit zum politischen und moralischen Vorbild.
 
-Matt Damon: Francois Pienaar
+Matt Damon: Francois Pienaar (Rugby Team Kapitän der Springbok)
 Scott Eastwood: Joel Stransky
 Zak Feaunati: Jonah Lomu
 Langley Kirkwood: George
