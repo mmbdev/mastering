@@ -80,8 +80,6 @@ Wir haben noch keine Vorgaben, sehen jedoch die Notwendigkeit solche einzuführ
 Wir haben eine Open Source Strategie.
 Wir haben eine Open Source Policy/Guideline/Richtlinie für Software-Entwickler. Wir haben Management-Tools zum Einsatz von Open Source Software. Open Source Vorgaben sind kein Thema bei uns.
 
-
-
 . Lernziele
 1. Grundverständnis der verschiedenen SW-Lizenzen
 2. Unterschied erkennen zwischen Free Software und Open Source Software
@@ -90,8 +88,6 @@ Wir haben eine Open Source Policy/Guideline/Richtlinie für Software-Entwickler
 5. Kennen der Herausforderungen beim Einsatz von OSS
 in Unternehmen
 Wissen besitzen, um selbständig unternehmerische OSS-Entscheidungen treffen zu können!
-
-
 
 Von Richard Stallman stammt die Free Software Definition:
 0. Freiheit zur Nutzung eines Programms zu beliebigen Zwecken
@@ -104,12 +100,12 @@ Von Richard Stallman stammt die Free Software Definition:
 
 Copyleft: zuerst Copyright + Vertriebsbestimmungen:
 
-eitere rechtliche Vertriebsbestimmungen:  Sieerlaubenallen,
+eitere rechtliche Vertriebsbestimmungen: -> Sie erlauben allen,
  - den Codedes Programms oder jedes davonabgeleiteten Programms zu verwenden,
- - zuändernund
- - weiterzuverteilen,
- - abernurwenndieVertriebsbestimmungenunverändert bleiben.
- - So werden der Code und die gewährten Freiheiten rechtlich untrennbar.
+ - zu ändern und
+ - weiter zu verteilen,
+ - aber nur wenn die Vertriebsbestimmungen unverändert bleiben.
+ - so werden der Code und die gewährten Freiheiten rechtlich untrennbar.
 
 Wenn ein Programm frei ist, aber nicht unter Copyleft steht:
 
@@ -118,44 +114,46 @@ Und das ist genau das was eigentlich der Idee der “freien Software” entgegen
 
 GNU
 
- Da der Zweck von GNU darin besteht, frei zu sein, muss jede einzelne Komponente im GNU-System freie Software sein.
-   "GNU-Programme"istgleichbedeutendmit„GNU- Software“.
- WasistmitCopyleftundGNUSoftware?  Dasführtzueiner“eigenen”Lizenz!!!!!!
+Da der Zweck von GNU darin besteht, frei zu sein, muss jede einzelne Komponente im GNU-System freie Software sein.
+ - "GNU-Programme"istgleichbedeutendmit„GNU- Software“.
+ - Was ist mit Copyleft und GNU Software? -> Das führt zu einer “eigenen” Lizenz!
 
 
 Die Debian-Richtlinien für Freie Software (DFSG)
- 1.UnbeschränkteWeitergabe
+ 1.Unbeschränkte Weitergabe
  2.Quellcode
- 3.WeiterführendeArbeiten
- 4.IntegritätdesursprünglichenQuellcodes
- 5.KeineDiskriminierungvonEinsatzbereichen
- 6.KeineDiskriminierungvonPersonenundGruppen
- 7.WeitergabederLizenzen
- 8.KeinespeziellenLizenzenfürDebian
- 9.KeineAuswirkungenaufandereProgramme
+ 3.Weiterführende Arbeiten
+ 4.Integrität des ursprünglichen Quellcodes
+ 5.Keine Diskriminierung von Einsatzbereichen
+ 6.Keine Diskriminierung von Personen und Gruppen
+ 7.Weitergabeder Lizenzen
+ 8.Keine speziellen Lizenzen für Debian
+ 9.Keine Auswirkungen auf andere Programme
  10.Beispiellizenzen
 
 
 Die Open-Source-Definition (OSD) ist keine Lizenz, sondern ein Standard, an dem Lizenzen gemessen werden.
 
 Open Source <-> Free Software
- Der Begriff „Open Source“ hebt (begrifflich) die Einsicht in den Quellcode einer Software hervor, nicht aber die Freiheit, diesen Quellcode auch beliebig weiterzugeben oder zu verändern, obwohl dies auch mit dem ursprünglichen „Open Source“ gemeint ist!
+-> Der Begriff „Open Source“ hebt (begrifflich) die Einsicht in den Quellcode einer Software hervor, nicht aber die Freiheit, diesen Quellcode auch beliebig weiterzugeben oder zu verändern, obwohl dies auch mit dem ursprünglichen „Open Source“ gemeint ist!
 
 Fazit: Das Problem entsteht durch die Begriffe (Konzepte): „Frei(heit)“ und „Offen“
 
 
 Creative Common:
 
+Creative Commons (abgekürzt CC; englisch für schöpferisches Gemeingut, Kreativallmende) ist eine gemeinnützige Organisation, die 2001 in den USA gegründet wurde. Sie veröffentlicht verschiedene Standard-Lizenzverträge, mit denen ein Autor der Öffentlichkeit auf einfache Weise Nutzungsrechte an seinen Werken einräumen kann. Diese Lizenzen sind nicht auf einen einzelnen Werkstyp zugeschnitten, sondern für beliebige Werke anwendbar, die unter das Urheberrecht fallen, zum Beispiel Texte, Bilder, Musikstücke, Videoclips usw. Auf diese Weise entstehen Freie Inhalte.
+
 IndenHTML-Codefolgendeseinfügen
  <arel="license" href="http://creativecommons.org/licenses/by-nc- sa/2.5/ch/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by-nc- sa/2.5/ch/88x31.png" /></a><br />This Werk bzw. Inhalt is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc- sa/2.5/ch/">Creative Commons Attribution- NonCommercial-ShareAlike 2.5 Switzerland License</a>
 
-WasCCnichtleistet:
- Creative-Commons-Lizenzensindcopyright/ Urheberrecht orientiert, eignen sich daher für kulturelle / kreative Inhalte (Werke) und Inhalte und weniger für patent- / handelsrechtlich (Trademark) geschützte Werke
- Creative-Commons-Lizenzenschützennichtvor Missbrauch, ebensowenig wie ©, aber die Einhaltung der Lizenzbestimmungen ist einklagbar
- CCverwendetkeinDRM-System,imGegenteil!
+Was CC nicht leistet:
+ - Creative-Commons-Lizenzensindcopyright/ Urheberrecht orientiert, eignen sich daher für kulturelle / kreative Inhalte (Werke) und Inhalte und weniger für patent- / handelsrechtlich (Trademark) geschützte Werke
+ - Creative-Commons-Lizenzenschützennichtvor Missbrauch, ebensowenig wie ©, aber die Einhaltung der Lizenzbestimmungen ist einklagbar
+ - CC verwendet kein DRM-System, im Gegenteil!
   
 
-   CC ist kein Geschäftsmodell
+CC ist kein Geschäftsmodell
  Aber: Die kommerzielle Nutzung wird nicht ausgeschlossen.
  Es erfolgt keine automatische Registrierung der Werke
  Aber: Die beigefügten Metadaten erleichtern das Auffinden.
@@ -171,90 +169,90 @@ WasCCnichtleistet:
  Entwicklung von Geschäftsmodellen
 
 Risiken beim Einsatz von OSS
- Fazit:
-1.Bei kostenlosem Erwerb bleibt der Nutzer auf der
-Haftung und Garantie selbst sitzen!
-2.Die Entwickler gehen keine Verpflichtung zur Pflege und Weiterentwicklung der OSS ein!
-  3.Frage der Verantwortlichkeit der für den Beschaffungsentscheid zuständigen Person im Unternehmen!
-4.Fehlendes „Spezialwissen“ über den OSS-Markt
+Fazit:
+1. Bei kostenlosem Erwerb bleibt der Nutzer auf der Haftung und Garantie selbst sitzen!
+2. Die Entwickler gehen keine Verpflichtung zur Pflege und Weiterentwicklung der OSS ein!
+3. Frage der Verantwortlichkeit der für den Beschaffungsentscheid zuständigen Person im Unternehmen!
+4. Fehlendes „Spezialwissen“ über den OSS-Markt
 
-GeschäftsmodellausNutzersicht:Risikominimierung  VerkaufmitGarantie
+Geschäftsmodell aus Nutzersicht: Risikominimierung && Verkauf mit Garantie
  Professionelles Software-Unternehmen bietet OSS zum „Kauf“ an und verbindet damit eine Garantie sowie Haftung.
  Pflegevertrag
- Professionelles Software-Unternehmen bietet einen
-Pflegevertrag zur Wartung und Verbesserung der OSS an.
+ Professionelles Software-Unternehmen bietet einen Pflegevertrag zur Wartung und Verbesserung der OSS an.
  Zertifizierungsinstanz
  „Unabhängige Dritte Instanz“ prüft die OSS nach bestimmten Standards und bietet eine Zertifizierung der OSS (Qualitätssicherung), da bei OSS die Herstellerbeziehung fehlt.
 
 
-FeinereAufteilunginprimäreundsekundäreMärkte  Primärmarkt:
- 1)Distributoren
- VertriebvonOSS-KomplettlösungenaufDatenträgern incl. Dokumentation und Support-Leistungen gegen Gebühr
- Achtung: Problem dabei ist die Haftung und die Garantie
- KannauchEigenentwicklungvonOSS(zumPaket)
-beinhalten.
- 2)EmbeddedSoftware(Appliances)
- EntwicklungundVerkaufvonHardwaremitOSS,wiez.
-B. Set-Top-Geräte, DVD-/MP3-Player, TV,
-Geldautomaten, Mac OS X (BSD), Handy (Android), ...
+Feinere Aufteilung in primäre und sekundäre Märkte - 
 
-Sekundärmarkt:KostenloseAbgabederOSSund Aufbau eines alternativen Marktes (Beispiel Gillette: Rasierer primäres Produkt, R-Schaum, R-Klingen s. P.)
- 3)Dienstleister
+### Primärmarkt:
+
+1) Distributoren
+Vertrieb von OSS-Komplettlösungen auf Datenträgern incl. Dokumentation und Support-Leistungen gegen Gebühr
+ - Achtung: Problem dabei ist die Haftung und die Garantie
+ - Kann auch Eigenentwicklung von OSS(in einem Paket) beinhalten.
+
+2)Embedded Software (Appliances)
+ - Entwicklung und Verkauf von Hardware mit OSS, wiez.
+ - z.B. Set-Top-Geräte, DVD-/MP3-Player, TV, Geldautomaten, Mac OS X (BSD), Handy (Android), ...
+
+### Sekundärmarkt: 
+Kostenlose Abgabe der OSS und Aufbau eines alternativen Marktes (Beispiel Gillette: Rasierer primäres Produkt, R-Schaum, R-Klingen s. P.)
+
+3)Dienstleister
 a) Consulting-Firmen, die rund um OSS beraten
 b) Zertifizierungsinstanzen, die Qualitätsstandards für OSS bieten
-c) Subskriptionsmodell: Serviceunternehmen, die die
-Pflege der eingesetzten OSS übernehmen (Updates, schliessen von Sicherheitslücken, programmierung zusätzlicher Funktionen z.B. RedHat oder Novell)
-d) Mediator (EM), auf dem sich Entwickler und Nutzer
-    austauschen
-
+c) Subskriptionsmodell: Serviceunternehmen, die die Pflege der eingesetzten OSS übernehmen (Updates, schliessen von Sicherheitslücken, Programmierung zusätzlicher Funktionen z.B. RedHat oder Novell)
+d) Mediator (EM), auf dem sich Entwickler und Nutzer austauschen
 
 
 Faktoren, die die Entscheidung (pro/contra OSS) beeinflussen anhand der TOC-Methode (Total Cost of Ownership):
-  n Monetäre Faktoren n Direkte Kosten
-n Indirekte Kosten
-n Nicht monetäre Faktoren n Qualitätsaspekte
-n Strategische Aspekte
+
+    n Monetäre Faktoren 
+    n Direkte Kosten
+    n Indirekte Kosten
+    n Nicht monetäre Faktoren n Qualitätsaspekte
+    n Strategische Aspekte
 
 -> Direkte Kosten:
-n Lizenzkosten
-n Hardwarekosten
+
+    n Lizenzkosten
+    n Hardwarekosten
+
 -> Indirekte Kosten:
-n Anpassbarkeit der Software
-n Administration
-n Know-How
-n Support und Updates
-n Integration und Migration
+
+    n Anpassbarkeit der Software
+    n Administration
+    n Know-How
+    n Support und Updates
+    n Integration und Migration
+
+FAZIT:
+Die Modularität von OSS ist besonders vorteilhaft, wenn:
+ - aufgrund von Hardwarebeschränkungen schlanke SW gefragt ist,
+ - die SW exakt an die Anforderungen bestimmter Nutzungen angepasst werden soll, um Sicherheitsprobleme oder erwünschte Nutzungen auszuschliessen.
+
+Support- und Update-Kosten:
+ - Kosten bei der Unterstützung in Problemsituationen
+ - Gewährleistung
+ - Support
+ - Update
+ - Wartung
+ - Telefonsupport, Internet-Foren, Zertifizierungen
+
+Stabilität:
+ - Ausfallkosten,Ausfallwahrscheinlichkeit
+ - Die Stabilität hängt vom schwächsten Glied ab!
+ - Sicherheit
+ - Virenattacken
+ - Programmcodeistoffen
+ - QualitätdesCodes?
+ - SicherheitslückenwerdenvonderCommunityerkannt
 
 
-
-n FAZIT
-n Die Modularität von OSS ist besonders vorteilhaft,
-wenn:
-n aufgrund von Hardwarebeschränkungen schlanke SW gefragt ist,
-n die SW exakt an die Anforderungen bestimmter Nutzungen angepasst werden soll, um Sicherheitsprobleme oder erwünschte Nutzungen auszuschliessen.
-
- Support- und Update-Kosten
- KostenbeiderUnterstützunginProblemsituationen
-   Gewährleistung  Support
- Update
- Wartung
- Telefonsupport  Internet-Foren  Zertifizierungen
-
- Stabilität
- Ausfallkosten,Ausfallwahrscheinlichkeit
- DieStabilitäthängtvomschwächstenGliedab!
- Sicherheit
- Virenattacken
- Programmcodeistoffen
- QualitätdesCodes?
- SicherheitslückenwerdenvonderCommunityerkannt
-
-
- Unabhängigkeit und stärkerer Wettbewerb für Hardware und Software
- UnabhängigkeitgegenüberdenSoftwareanbietern  UnabhängigkeitgegenüberHardwaredaoft
-plattformübergreifende Lösungen
- OffeneStandardsundstandardisierteSchnittstellen
- VerfügbarkeitderAnwendungen
- LinuxwirdinderZwischenzeitvonvielen(proprietären) Business-Anwendungen unterstützt.
-
+Unabhängigkeit und stärkerer Wettbewerb für Hardware und Software:
+ - Unabhängigkeit gegenüber den Softwareanbietern, Unabhängigkeit gegenüber Hardware, da oft plattformübergreifende Lösungen
+ - Offene Standards und standardisierte Schnittstellen
+ - Verfügbarkeit der Anwendungen
+ - Linux wird in der Zwischenzeit von vielen (proprietären) Business-Anwendungen unterstützt.
 
