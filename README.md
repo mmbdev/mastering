@@ -22,6 +22,7 @@ Major of Information Sience and Data Engineering - MBA
    - Sepcific Research Methods
    - Strategic Management
    - User Interface Design (UI, UX, UD)
+   - Digital Business
     
   S3:
    - Advanced Information Retrival
