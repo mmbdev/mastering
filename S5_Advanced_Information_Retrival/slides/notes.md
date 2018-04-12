@@ -1,4 +1,4 @@
-# VL notes
+# AIR VL notes
 
 Notizen zu den einzelnen Kapiteln von Advanced Inofrmation Retrival.
 
