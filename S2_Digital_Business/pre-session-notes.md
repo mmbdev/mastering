@@ -1,6 +1,6 @@
 # Pre-Session 
 
-## Session 1
+## Session 1 - Introduction
 
 drei unterschiedliche Definitionen von «digitalen Geschäftsmodellen»
 https://www.mosaiic.com/sind-digitale-geschaeftsmodelle-51-gaengige-definitionen-aus-praxis-wissenschaft/
@@ -38,7 +38,69 @@ Was versteht man unter Maschinenlernen? Was ist beaufsichtigtes («supervised»)
 
 https://www.der-bank-blog.de/typologie-kuenstliche-intelligenz/technologie/29269/
 
---
-Notes about theoretical materials:
+## Session 2 - Digital Business und die Automatisierung von Entscheidungsfindung/daten-basierte Entscheidungsfindung
 
+Was ist kognitive Befangenheit (“cognitive bias”)?
+
+ -> mit Wahrnehmung, Lernen, Erinnern und Denken, also der menschlichen Erkenntnis- und Informationsverarbeitung in Zusammenhang stehen. Neben den kognitiven Funktionen sind die emotionalen Gesichtspunkte und der Bereich der Motive für die menschliche Erkenntnisverarbeitung von Bedeutung.
+
+Kognition ist die von einem verhaltenssteuernden System ausgeführte Umgestaltung von Informationen. Die Bezeichnung ist abgeleitet von lateinisch cognoscere und bedeutet: ,erkennen‘, ‚erfahren‘ oder ‚kennenlernen‘. Kognition ist ein uneinheitlich verwendeter Begriff, mit dem auf die Informationsverarbeitung von Menschen und anderen Systemen Bezug genommen wird. Oft ist mit „Kognition“ das Denken in einem umfassenden Sinne gemeint.
+
+Zu den kognitiven Fähigkeiten eines Menschen zählen unter anderem
+
+    Wahrnehmung und Aufmerksamkeit,
+    Erinnerung und Lernen,
+    das Problemlösen, Kreativität und Vorstellungskraft,
+    das Planen und die Orientierung,
+    die Argumentation,
+    die Selbstbeobachtung (Introspektion),
+    der Wille,
+    und das Glauben
+
+Wie und warum kann dies geschehen?
+
+Zur Bestimmung systematischer fehlerhafter kognitiver Verzerrungen ist es zunächst notwendig, prüfbare Regeln zu entwickeln. Diese werden gewöhnlich anhand von normativen Modellen wie der mathematischen Wahrscheinlichkeitsrechnung formuliert. Diese geben dann die „richtigen“ oder „rationalen“ Standards für Denkprozesse und Entscheidungen, die geprüft werden, vor. Systematische, also nicht nur individuelle und zufällige, Abweichungen von diesen Standards gelten dann als irrational oder falsch.
+
+Menschliche Probanden kennen in der Regel weder die Modelle noch die Regeln und treffen ihre Aussagen und Entscheidungen anhand von natürlichen, intuitiven Entscheidungsheuristiken unter unvollständigen Informationen. Diese sind meist effizient und hilfreich und unabhängig von Wunschdenken.
+
+Bringen Sie Beispiele von Studien mit in den Unterricht, welche die Fehleranfälligkeit des menschlichen Gehirns belegen. 
+Erklären was genau passiert und wie sich Menschen/das menschliche Gehirn verhält.
+
+http://www.3sat.de/page/?source=/scobel/169983/index.html
+
+ -> Bilder wecken Emotionen
+ -> Objekte transportieren Botschaften
+ -> Wie man Geschichte verständlich macht (Erwartung und Objectfilterung)
+
+Was machen Maschinen besser als Menschen?
+
+ -> Genauigkeit bei großen Datenmengen
+ -> Fehleranfälligkeit bei statistischen Werten
+ -> keine Emotionen für Entscheidungen im Spiel
+ -> Arbeiten immer sequentiell und ablauforientiert
+
+Was versteht man heute unter der Standard Partnerschaft von Gehirn und Maschine («standard partnership of division of minds and machines»)?
+
+ - Aufgabengebiete die Rechnen und Analytik betreffen werden als Partner gesehen
+ - Kreativtität eher nicht
+ - 
+
+Was sind bekannte Unzulänglichkeiten von Algorithmen? 
  
+ - Komplexität verliert Lesbarkeit und somit Kontrolle
+ - Risiko steigt dadurch und testbarkeit verliert sich
+
+Wann und wieso sind Algorithmen ungenau und befangen (biased)?
+
+ - Klassifikationsfehler
+ - Rundungsfehler
+ - Testmengen
+ - "Man muss Verfahren nehmen, die mit sehr wenigen Annahmen arbeiten – ohne Annahmen kann ich aber auch die Güte des Ergebnisses schlecht vorhersagen."
+ - Genauigkeit und Kontrolle kann bei einem Algorithmus nur durch fixe Werte gegeben werden
+
+
+-----
+ - Too Much Information
+ - What should we Remember?
+ - Not enough meaning
+ - Need to act fast
