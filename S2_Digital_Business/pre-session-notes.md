@@ -83,12 +83,11 @@ Was versteht man heute unter der Standard Partnerschaft von Gehirn und Maschine 
 
  - Aufgabengebiete die Rechnen und Analytik betreffen werden als Partner gesehen
  - Kreativtität eher nicht
- - 
 
 Was sind bekannte Unzulänglichkeiten von Algorithmen? 
  
  - Komplexität verliert Lesbarkeit und somit Kontrolle
- - Risiko steigt dadurch und testbarkeit verliert sich
+ - Risiko steigt dadurch und Testbarkeit verliert sich
 
 Wann und wieso sind Algorithmen ungenau und befangen (biased)?
 
@@ -98,9 +97,41 @@ Wann und wieso sind Algorithmen ungenau und befangen (biased)?
  - "Man muss Verfahren nehmen, die mit sehr wenigen Annahmen arbeiten – ohne Annahmen kann ich aber auch die Güte des Ergebnisses schlecht vorhersagen."
  - Genauigkeit und Kontrolle kann bei einem Algorithmus nur durch fixe Werte gegeben werden
 
-
 -----
- - Too Much Information
- - What should we Remember?
- - Not enough meaning
- - Need to act fast
+Session 2
+
+ - Too Much Information - Next in the line, Stille Post
+ - What should we Remember? - Cluster, Strategien
+ - Not enough meaning - Generalisierung
+ - Need to act fast - schnelle Lösungen
+
+Vorurteile/Befangenheiten von den 3 Berufsfeldergruppen
+ - HR
+ - Kriminalität
+ - Juristen
+
+Warum?
+ - 
+Biases? Welche?
+ - 
+Reduktion?
+ - 
+
+--
+
+2. Teil Survey Mensch vs. Maschine
+ . Fragen zu einer Bilderreihenfolge
+ -> Maschine überwiegt in Histos
+
+3. Group Work
+ - Tätigkeiten mit hohem Potential für Unterstützung mittels Algorithmus
+ - Schwächen der Algos
+ - Nicht digitalisierbare Tätigkeiten
+
+
+## Session 6: Platform Economies: Paying Complements and O2O
+
+Why are complements are smart strategy?
+How do O2O platforms work?
+
+11.05. - nach Auffahrt von Christi > 15.06. verlegen
