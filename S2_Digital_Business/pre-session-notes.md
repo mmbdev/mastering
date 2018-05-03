@@ -98,7 +98,8 @@ Wann und wieso sind Algorithmen ungenau und befangen (biased)?
  - Genauigkeit und Kontrolle kann bei einem Algorithmus nur durch fixe Werte gegeben werden
 
 -----
-Session 2
+
+### Session 2 - Vorlesung:
 
  - Too Much Information - Next in the line, Stille Post
  - What should we Remember? - Cluster, Strategien
@@ -127,6 +128,37 @@ Reduktion?
  - Tätigkeiten mit hohem Potential für Unterstützung mittels Algorithmus
  - Schwächen der Algos
  - Nicht digitalisierbare Tätigkeiten
+
+## Session 3: Die Digitalisierung von Prozessen: Digitale Geschäftsmodelle ohne menschliche Schnittstellen zum Kunden, Patienten, Neukunden.
+
+Welche Arten von Prozessen und Dienstleistungen haben Unternehmen über die Jahre virtualisiert?
+
+Prozesse:
+ - IT-Infrastuktur
+ - Daten
+
+DL:
+ - Marketing
+ - Informations-Phase
+ - Notification
+ - Controlling
+
+Welche Technologien haben die Virtualisierung von Prozessen in Unternehmen begünstigt oder ermöglicht?
+
+ - Datenbanken
+ - Hypervisoren
+ - Desktops, kleinere Betriebssysteme
+ - weniger Ressourcenkosten und mehr Verfügbarkeit von Hardware
+
+Was versteht man unter “self-selection” von Kunden?
+
+Self-Selection-Strategien basieren darauf, dass das Unternehmen aus einem beobachtbaren Wahlverhalten eines Kunden Rückschlüsse auf dessen Qualität der Ware ziehen kann.
+
+Selbstselektion (auch Selbstselektivität) ist eine Form der willkürlichen Stichprobenziehung. In der Meinungsforschung und der empirischen Sozialforschung spricht man davon, wenn die im Rahmen einer Stichprobe untersuchten Personen nicht durch ein zufälliges oder systematisches Stichprobenverfahren selektiert werden, sondern selbst die Entscheidung treffen, zu der Stichprobe zu gehören. Selbstselektion führt im Vergleich zu Zufallsauswahlverfahren dazu, dass die Stichprobe nicht repräsentativ ist und Rückschlüsse auf die Eigenschaften der Grundgesamtheit daher nur in eingeschränktem Maße zulässig sind, selbst wenn die soziodemographischen Merkmale der untersuchten Personen mit denen der Grundgesamtheit übereinstimmen sollten.
+
+Beispiel für Selbstselektion: Bei einer Umfrage zum Rauchen würde nicht gezielt eine Zufallsstichprobe aus der Bevölkerung angeschrieben werden, sondern ein Stand in einer Fußgängerzone aufgebaut werden, an dem Fragebögen ausliegen. Es könnten nun besonders Nichtraucher mitmachen wollen. Die Meinung der Raucher wäre damit unterrepräsentiert.
+
+Selbstselektion wird häufig als Auswahlverfahren bei Online-Befragungen genutzt, obwohl sie dafür ungeeignet ist. Dabei werden die Befragungsteilnehmer passiv rekrutiert, etwa dadurch, dass sie auf ein Banner reagieren. Solche Personen sind in der Regel besonders am Gegenstand der Befragung interessiert, daher lassen sich ihre Angaben nicht auf die Grundgesamtheit der Internet-Nutzer oder Website-Besucher übertragen. 
 
 
 ## Session 6: Platform Economies: Paying Complements and O2O
