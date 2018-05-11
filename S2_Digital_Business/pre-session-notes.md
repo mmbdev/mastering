@@ -160,10 +160,102 @@ Beispiel für Selbstselektion: Bei einer Umfrage zum Rauchen würde nicht geziel
 
 Selbstselektion wird häufig als Auswahlverfahren bei Online-Befragungen genutzt, obwohl sie dafür ungeeignet ist. Dabei werden die Befragungsteilnehmer passiv rekrutiert, etwa dadurch, dass sie auf ein Banner reagieren. Solche Personen sind in der Regel besonders am Gegenstand der Befragung interessiert, daher lassen sich ihre Angaben nicht auf die Grundgesamtheit der Internet-Nutzer oder Website-Besucher übertragen. 
 
+## Session 4: Die Digitalisierung der Produktion: Der Vormarsch der Roboter Schlüsselfrage: Nehmen Roboter den Menschen Jobs weg?
+
+Was versteht man unter einer “Kambrischen Explosion”?
+
+ -> als Vielfalt der Arten sich multipliziere, als in relativ kurzer Zeit die Vorfahren fast alle heutiger Tierstämme auftraten.
+ Nach dem Biologischen Zeitalter, jetzt Metall und Strom im Weltall, Multipolarität wird abgelöst.
+ Globalisierung vereinheitlicht mehr und beginnt ein Zusammenspiel zwischen den Arten. 
+
+Quelle: Buch Maschine frisst Mensch
+
+Welches sind die Faktoren, welche den Vormarsch der Roboter erlauben/ ermöglichen?
+ 
+ -> Digitale Prozesse, Netzwerk, Hardware-Verbesserung, Energiespeicherung
+ -> Rechenoperationen und statistische Auswertungen
+ -> Algorithmisierung, Deep-Learning (Selbstvermehrung)
+ -> Produktivität und Massenproduktion
+
+ Daten - Netzwerk - Cloud - Exponentiell
+
+Welche Arbeiten sind langweilig, schmutzig und gefährlich? Wie können Roboter in solchen Situationen unterstützen?
+
+ -> Chemische Prozesse, Arbeiten in Manufakturen
+ -> Rechnungen auf Plausibilität
+
+Was sagt Gill Pratt zu den Implikationen auf Wirtschaft und Arbeitskräfte?
+
+Wirtschaft und Gesellschaft:
+
+Es wird auf Basis von 6-Stellern gearbeitet, somit stehen
+702 Berufe zur Verfügung. Im ersten Schritt vergab eine Gruppe von Forschern
+aus dem Bereich „machine learning“ für 70 Berufe Werte zwischen
+1 (alle Tätigkeiten eines Berufes sind automatisierbar) und 0 (keine Automatisierbarkeit).
+Diese Ergebnisse wurden dann mit Hilfe eines statistischen
+Modells auf alle Berufe hochgerechnet.
+
+Im Ergebnis fallen 47% aller Berufe in die
+Hochrisikogruppe, d. h. diese Berufe sind potenziell automatisierbar in
+einer Zeitspanne von ca. 10 bis 20 Jahren. Ein wichtiges Detailergebnis
+bezieht sich darauf, dass höhere Löhne und höhere Ausbildung stark
+korrelieren mit einer geringeren Wahrscheinlichkeit der Substitution. Daraus
+folgt u. a., dass laut Frey und Osborne der Trend zur Polarisierung
+damit sein Ende finden sollte. Ihre eigenen Ergebnisse relativierend, weisen
+sie darauf hin, dass sie nur die technologischen Möglichkeiten, mit
+denen Computer Tätigkeiten ersetzen können, ermittelt haben. Sie unternehmen
+keine Versuche, abzuschätzen, wie viele Berufe tatsächlich in
+den nächsten Jahren von Computern ersetzt werden. In der veröffentlichten
+Rezeption der Studie wurde allerdings dieser Unterschied vernachlässigt,
+was einen völlig falschen Eindruck in Bezug auf die Ergebnisse hinterließ
+
+Bedeutet der Vormarsch der Roboter das Ende der Arbeit wie wir sie kennen? Was
+spricht dafür? Was spricht dagegen?
+
+ -> in manchen Bereichen und Industriezweigen entstehen neue Berufe
+ -> andere Arbeitsmaßnahmen können von Robotern nur wenig automatisiert werden
+
+Wo sehen Sie die Grenzen für den Einsatz von Robotern? Sammeln Sie Beispiele und legen Sie sich eine Argumentation bereit.
+
+ -> Gesundheit
+ -> Individuelle Fähigkeiten
+ -> Risikobehaftete Lebensgebiete/Eingriffe
+
+Zusammenfassung zur Robotik:
+
+Risiken: 
+  - Datenschutz
+  - Wartung
+  - Abhängigkeiten
+  - Technische Ausfälle
+  - Kontrollverlust (Security)
+
+Chancen:
+ - Fachpersonal ersetzen
+ - Intelligent Systems
+ - Just in Time Kommunikation (Ethernet)
+ - Unbeliebte und schmutzige Arbeiten
+ - Konkurenz ausschluss
+ - Mehr Freizeit (Bildungszeit)
+ - Weniger Fachpersonal, mehr Service und Entwicklungspersonal
+
+---
+Session-Input:
+ - https://www.xing.com/news/insiders/articles/warum-digitale-strategien-scheitern-1392852?xing_share=news&cce=em5e0cbb4d.%3AAAlFxO0SmoN0gqNheHCPhnAL
+
+ Zusammenfassung -> komplett als Reflexion in allen Rubriken -> Ökonomie, Okölogie, Humanismus
+ Prototyping, Anpassung an das System - Umweltfaktoren
+
+Etwas größeren Blick bei der Zusammenfassung auf die komplette Umwelt haben.
+
 
 ## Session 6: Platform Economies: Paying Complements and O2O
 
 Why are complements are smart strategy?
 How do O2O platforms work?
 
-11.05. - nach Auffahrt von Christi > 15.06. verlegen
+O2O stands for online to offline. The O2O term seems to have been coined in China digital ecosystem.
+
+O2O refers to the process of finding consumers online and bring them into physical stores. O20 is thus cousin of older ROPO term. In principle, in mots O2O processes, customers pay the service or prouct online and have to go to an offline store to enjoy the service.
+
+O2O is achieved by the way of websites and physical stores belonging to the same brand or through 020 platforms that are middlemen between online users and stores.
