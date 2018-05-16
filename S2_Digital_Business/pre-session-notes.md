@@ -249,6 +249,31 @@ Session-Input:
 Etwas größeren Blick bei der Zusammenfassung auf die komplette Umwelt haben.
 
 
+## Session 5: Plattform-Ökonomie Schlüsselfrage: Wieso sind Plattformen erfolgreich?
+
+Was sind wichtige Attribute von Plattformen?
+
+- Low latency - keine Wartezeit -
+- Diverse - Vielfältig -
+- Centralized - Zentralisiert -
+- Durable - Dauerhaft -
+
+https://www.parkerwhite.com/insights/14-components-of-a-brand-platform/
+
+
+Beschreiben Sie die Bedeutung und die Effekte folgender Ausdrücke in Verbindung mit
+Plattformen: Bündeln & Entbündeln («Unbundling & Re-bundling»), Netzwerkeffekte
+(«network effects»), Transaktionskosten («transaction costs»).
+
+
+Wieso sind Plattformen teilweise erfolgreicher als traditionelle Güter und
+Dienstleistungen?
+
+- no latency
+- full automated
+- worldwide visable
+- elektronische Güter, keine physischen
+
 ## Session 6: Platform Economies: Paying Complements and O2O
 
 Why are complements are smart strategy?
