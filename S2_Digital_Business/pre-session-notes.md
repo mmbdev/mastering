@@ -260,14 +260,47 @@ Was sind wichtige Attribute von Plattformen?
 
 https://www.parkerwhite.com/insights/14-components-of-a-brand-platform/
 
-
 Beschreiben Sie die Bedeutung und die Effekte folgender Ausdrücke in Verbindung mit
 Plattformen: Bündeln & Entbündeln («Unbundling & Re-bundling»), Netzwerkeffekte
-(«network effects»), Transaktionskosten («transaction costs»).
+(«network effects»), Transaktionskosten («transacction costs»).
 
+(«Unbundling & Re-bundling»)
+
+- es können pyhsikalische und virtuelle Produkte, sowie Informationen gebündelt oder eben einzeln Angeboten werden
+- genau so Features der einzelen Plattform gebündelt oder einzelen angeboten werden
+
+(«network effects»)
+
+- Finance (incooperate network effects)
+- HR (internal employees and external communities)
+- R&D (crowdsourcing and open innovation)
+- Marketing (Push -> Pull, Outbound -> Inbound)
+- Strategy (Entry Barriers & Inimitable)
+  . Resouces -> Ecosystems husbandry and long tail
+- IT 
+  . Back Office -> ERP
+  . Front Office -> CRM
+  . Out of Office (Social & Big Data)
+   Communication among user
+- Operations and Logistik
+ . Uber: no taxis, AirBnB: no real estates
+ . Facebook: creates no content, Alibaba: no inventory
+ shed variable costs
+
+
+(«transacction costs»)
+Transaktionsphasen:
+ 1. Information   (Firmen und Produktkatalog, Suchdienste, Werbung, Spezifikationen)
+ 2. Verienbarung  (Mengen und Preisfindung, Konditionen, Ausschreibung, Lieferbedingungen, Auftragsbestätigungen)
+ 3. Abwicklung    (Lieferüberwachung, Abrechnung, Finanzleistung, Retouren, Zahlsystem, Versicherung)
+ 4. After-Sales   (tech. Kundendienst, Reklamationen, Feedback, Fragen
 
 Wieso sind Plattformen teilweise erfolgreicher als traditionelle Güter und
 Dienstleistungen?
+
+. Transaktionskosten sind günstiger
+. Größeres Teilnehmermodell - Administration, Business, Customer
+. direkte und indirekte Einnahmequellen (Erlöse und Gebühren, Provision, Sponsoring)
 
 - no latency
 - full automated
