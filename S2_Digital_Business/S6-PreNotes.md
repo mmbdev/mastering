@@ -31,7 +31,6 @@ https://wirtschaftslexikon.gabler.de/definition/komplementaergut-41650
  - Physical stores also create high revenue since statistics show that customers who order online and pick up in store, or exchange items in store tend to buy extra things.
  - One more reason why an e-commerce business needs a  physical store is that face-to-face customer service is proved to boost sales.
  - Other keys factors that make physical stores become powerful compliments of e-commerce is that it saves times and money with better logistics, and boost traffic to the online shops.
- - 
 
 groups:
  Laura und Mirjam
@@ -74,9 +73,18 @@ Wer trägt oftmals diese Komplementäre bei (z.B. Apps)?
 
 Was sind die Hauptreiber dieser Entwicklung und wieso sind Komplementäre oftmals umsonst?
 
-Was ist eine O2O-Plattform? Wie unterscheidet sich diese von einer reinen digitalenPlattform?
+Was ist eine O2O-Plattform? Wie unterscheidet sich diese von einer reinen digitalen Plattform?
 
 Was ist Revenue Management? Wie verbessert Revenue Management das Zusammenspiel von Angebot und Nachfrage?
+
+->Konzept zur Ertragsoptimierung in der Dienstleistungsbranche (z. B. bei Airlines, Hotels), bei dem unter Einsatz integrierter Informationssysteme eine dynamische Preis-Mengen-Steuerung erfolgt, die zu einer gewinnoptimalen Nutzung vorhandener Kapazitäten führen soll.
+
+ . aktuelle politische Ereignisse
+ . Beliebte Zeiträume
+ . Physikalische Verfügbarkeit
+
+ -> https://rateboard.io/de/demo/ 
+ -> https://suite.booking.com/rateintelligence/
 
 Aufgaben für die Session:
 
@@ -92,8 +100,7 @@ Nehmen Sie ein Beispiel aus der Hotelindustrie. Wie verwenden diese Plattformen 
 Wie könnte ein Algorithmus in diesem Umfeld funktionieren?
 
 
-quells:
-
+Quells:
 - Machine, Platform, Crowd. Harnessing our digital future, Chapter 7, pp. 151-176, and chapter 8, pp. 178-199
 - Use of dynamic pricing strategies by Airbnb hosts - https://doi.org/10.1108/IJCHM-09-2016-0540
 - Introducion of O2O - https://www.youtube.com/watch?v=ZFnj2HMnHW0 of China 
@@ -110,8 +117,22 @@ quells:
   - beauty stroe, choose your cosmetic agent
   - payment system via app and qr-code
 
-
 Branchen:
  - https://www.digitec.ch/
  - http://www.stnet.ch/de/home.html
- - 
+
+Meeting 20.05.2018:
+  . Introduction
+  . Moderation
+  . Gruppenarbeit (Design Thninking)
+  . Präsentation
+  . Handout
+
+Gute Fragen:
+ - Letztlich geht es darum:  Wem gehören wie viele Kunden und welchen Anteil ihrer Ausgaben kassiere ich?
+
+After Session:
+ . konkretere Fragenstellungen zu den Gruppenarbeiten
+ . feste Einteilung von Gruppen und Themen mit Beispielen (Intorduction)
+ . Pausenzuordung
+ . 
