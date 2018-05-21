@@ -65,15 +65,51 @@ Fragen die vor der Session zu klären sind:
 
 Wie funktionieren die klassischen Angebots- und Nachfragekurven-Modelle?
 
+-> Wenn mehr Leute ein bestimmtes Gut haben wollen, wird sich die nachgefragte Menge zu allen Preisen erhöhen. Die Ursache einer höheren Nachfrage können zum Beispiel eine neue Mode, andere Lebensumstände oder höheres Einkommen sein. Infolge der höheren Nachfrage und der damit verbundenen Rechtsverschiebung der Nachfragelinie steigt der Gleichgewichtspreis und die umgesetzte Menge.
+
+-> Ein steigendes Angebot drückt den Preis und erhöht die umgesetzte Menge. Bei sinkendem Angebot steigt der Preis und die Menge sinkt.
+
 Was ist eine Konsumentenrente («consumer surplus”)?
+
+-> Ein ökonomisches Maß für die Kundenzufriedenheit, das durch die Analyse der Differenz zwischen dem, was die Verbraucher für ein Gut oder die Dienstleistung zu zahlen bereit sind, im Vergleich zu seinem Marktpreis berechnet wird. Ein Verbraucherüberschuss entsteht, wenn der Verbraucher bereit ist für ein bestimmtes Produkt mehr zu zahlen als der aktuelle Marktpreis.
 
 Wie beeinflussen Komplementäre die Nachfragekurve? Wie beeinflussen Komplementäre die Präferenzen von Konsumenten?
 
+-> Einfluss Komplementäre: Abhängigkeiten, wenn für Produkt A (CD-PLayer) der Preis steigt, dann fällt meist auch Nachfrage für gut B (CD).
+
+Einflussfaktoren auf die Veränderung des Angebots bzw. der Angebotsmenge:
+ - Naturereignisse
+ - Import- bzw. Exportstopp
+ - Produktivitätssteigerung
+ - Produktionskostenveränderung
+ - Erwartungen
+ - Anzahl der Verkäufer
+ - veränderte Kundenwünsche
+
+Einflussfaktoren auf die Veränderung des Nachfrage bzw. Nachfragemenge:
+ - Bedürfnisveränderung
+ - Veränderte Anzahl der Konsumenten
+ - Preisänderung anderer Güter
+ - neue Konkurrenzprodukte
+
 Wer trägt oftmals diese Komplementäre bei (z.B. Apps)?
+
+ . Weiterempfählung
+ . Gewinnspiele
+ . Werbung
+ . Pinboards / Posting-Plattformen
 
 Was sind die Hauptreiber dieser Entwicklung und wieso sind Komplementäre oftmals umsonst?
 
+ . Plattformen und Werbung
+ . da Sie in der Informationsphase für Produkte stattfinden und den Kaufreiz der Konsumer anregen sollen
+
 Was ist eine O2O-Plattform? Wie unterscheidet sich diese von einer reinen digitalen Plattform?
+
+ . pyhsikalische Güter und Dienstleistungen verkauft werden.
+ - Der erste und wichtigste Vorteil, den O2O den Einzelhändlern bringt, ist der Ruf der Marke.
+ - Ein weiterer Schlüsselfaktor für den Erfolg des O2O-Geschäfts ist, dass es die Kundenbindung stärkt und gleichzeitig den Umsatz steigert.
+ - Ein weiterer Vorteil von O2O retail ist, dass diese Strategie Ihre Markteinführungszeit beschleunigt, indem die Zeit bis zur Markteinführung minimiert wird.
 
 Was ist Revenue Management? Wie verbessert Revenue Management das Zusammenspiel von Angebot und Nachfrage?
 
@@ -135,4 +171,3 @@ After Session:
  . konkretere Fragenstellungen zu den Gruppenarbeiten
  . feste Einteilung von Gruppen und Themen mit Beispielen (Intorduction)
  . Pausenzuordung
- . 
