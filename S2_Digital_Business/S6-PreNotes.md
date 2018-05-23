@@ -171,3 +171,19 @@ After Session:
  . konkretere Fragenstellungen zu den Gruppenarbeiten
  . feste Einteilung von Gruppen und Themen mit Beispielen (Intorduction)
  . Pausenzuordung
+
+2. Eigenschaften digitaler mehrseitiger Märkte
+2 .1 .1 Hohe Skalierbarkeit und Reichweite sowie Datenauswertung
+ . keine Geo Grenzen
+ . schnelle Reatkion auf Angebot und Nachfrage
+ . kulturelle, juristische und sprachliche Hürden
+ . Daten für die Steuerung, Auswertung und den Weiterverkauf
+  . Fragen zur Inkompabilität und Interopabilität
+
+2 .1 .2 Niedrige Transaktionskosten
+ . Aufwendigkeiten können minimiert werden
+ . Plattformbetreiber als Intermediär
+
+2 .1 .3 Starke Netzwerkeffekte
+ . verküpfen min 2. Atkeure oft mehr im Markt
+ . jede Gruppe provitiert von der Netzgröße

@@ -317,3 +317,6 @@ O2O stands for online to offline. The O2O term seems to have been coined in Chin
 O2O refers to the process of finding consumers online and bring them into physical stores. O20 is thus cousin of older ROPO term. In principle, in mots O2O processes, customers pay the service or prouct online and have to go to an offline store to enjoy the service.
 
 O2O is achieved by the way of websites and physical stores belonging to the same brand or through 020 platforms that are middlemen between online users and stores.
+
+---
+Session notes:
