@@ -167,11 +167,6 @@ Meeting 20.05.2018:
 Gute Fragen:
  - Letztlich geht es darum:  Wem gehören wie viele Kunden und welchen Anteil ihrer Ausgaben kassiere ich?
 
-After Session:
- . konkretere Fragenstellungen zu den Gruppenarbeiten
- . feste Einteilung von Gruppen und Themen mit Beispielen (Intorduction)
- . Pausenzuordung
-
 2. Eigenschaften digitaler mehrseitiger Märkte
 2 .1 .1 Hohe Skalierbarkeit und Reichweite sowie Datenauswertung
  . keine Geo Grenzen
