@@ -1,0 +1,7 @@
+load("/Users/marianbuhler/go/src/mastering/S1_Quantitative_ResearchMethods/Materials/Daten/marathon_100.RData")
+library(Rcmdr)
+exit
+quit
+exit
+exit()
+quit()
