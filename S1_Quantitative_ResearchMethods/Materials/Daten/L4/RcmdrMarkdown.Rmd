@@ -1,0 +1,156 @@
+---
+title: "L3 ANOVA"
+author: "mmn"
+date: "2018-12-14 14:24:23"
+---
+
+
+```{r echo=FALSE, message=FALSE}
+# include this code chunk as-is to set options
+knitr::opts_chunk$set(comment=NA, prompt=TRUE)
+library(Rcmdr)
+library(car)
+library(RcmdrMisc)
+```
+
+
+```{r echo=FALSE}
+# include this code chunk as-is to enable 3D graphs
+library(rgl)
+knitr::knit_hooks$set(webgl = hook_webgl)
+```
+
+#Wechsle Arbeitsverzeichnis
+
+```{r}
+setwd("/Users/marianbuhler/go/src/mastering/S1_Quantitative_ResearchMethods/Materials/Daten/L4")
+```
+
+# Datensatz laden
+
+```{r}
+load("/Users/marianbuhler/go/src/mastering/S1_Quantitative_ResearchMethods/Materials/Daten/L4/data/production.RData")
+```
+# Konvertertiere Var in 
+
+```{r}
+production <- within(production, {
+  f_method <- as.factor(method)
+})
+```
+
+
+```{r}
+library(abind, pos=17)
+```
+
+
+```{r}
+library(e1071, pos=18)
+```
+
+## Numerische Zusammenfassung, Mittelwert, Standardabweichung, Quartile
+
+```{r}
+numSummary(production[,"method", drop=FALSE], statistics=c("mean", "sd", 
+  "IQR", "quantiles"), quantiles=c(0,.25,.5,.75,1))
+```
+
+## Plott f<c3><bc>r arithmetische Mittelwerte pro Gruppe
+
+```{r}
+with(production, plotMeans(output, f_method, error.bars="conf.int", 
+  level=0.95, connect=TRUE))
+```
+# Annahme testen
+
+## Unabh<c3><a4>ngigkeit der Beobachtungen
+
+- Frage des Design des Experimentes
+
+## Gleiche Gruppenvarianzen
+
+
+```{r}
+with(production, tapply(output, list(f_method), mean, na.rm=TRUE))
+```
+## Varianztest
+
+
+```{r}
+with(production, tapply(output, f_method, var, na.rm=TRUE))
+bartlett.test(output ~ f_method, data=production)
+```
+
+```{r}
+with(production, tapply(output, f_method, var, na.rm=TRUE))
+leveneTest(output ~ f_method, data=production, center="median")
+```
+
+## Normalverteilung
+
+
+```{r}
+scatterplot(output~method, regLine=FALSE, smooth=FALSE, boxplots=FALSE, 
+  data=production)
+```
+
+```{r}
+symbox(~ method, data=production, trans=bcPower, powers=c(-1,-0.5,0,0.5,1))
+```
+
+```{r}
+with(production, Hist(method, scale="frequency", breaks="Sturges", 
+  col="darkgray"))
+```
+
+```{r}
+with(production, qqPlot(output, dist="norm", id=list(method="y", n=2, 
+  labels=rownames(production)), groups=f_method))
+```
+
+```{r}
+normalityTest(~method, test="shapiro.test", data=production)
+```
+
+```{r}
+library(mvtnorm, pos=20)
+```
+
+
+```{r}
+library(survival, pos=20)
+```
+
+
+```{r}
+library(MASS, pos=20)
+```
+
+
+```{r}
+library(TH.data, pos=20)
+```
+
+
+```{r}
+library(multcomp, pos=20)
+```
+
+
+```{r}
+AnovaModel.1 <- aov(output ~ f_method, data=production)
+summary(AnovaModel.1)
+with(production, numSummary(output, groups=f_method, statistics=c("mean", 
+  "sd")))
+```
+
+
+```{r}
+AnovaModel.2 <- aov(method ~ f_method, data=production)
+summary(AnovaModel.2)
+with(production, numSummary(method, groups=f_method, statistics=c("mean", 
+  "sd")))
+```
+
+

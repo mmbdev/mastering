@@ -1,0 +1,2 @@
+load("/Users/marianbuhler/go/src/mastering/S1_Quantitative_ResearchMethods/Materials/Daten/L4/data/production.RData")
+libarary(Rcmdr)
