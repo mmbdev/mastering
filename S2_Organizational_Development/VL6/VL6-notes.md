@@ -93,7 +93,7 @@ Modulprüfung 2016:
  - Text in verständlicher länge, für 10 Min.
  - 15 Punkte 3x5 Punkte für die Antwortstellungen
  - Terminologie des Modules mit den Inhalten
- z.B. Entstehungszusammenhan des Unterstützungsbedarf
+ z.B. Entstehungszusammenhang des Unterstützungsbedarf
  Fachkompetente Wörter des Modules verwenden
 
 Fragestellung:
