@@ -3,7 +3,7 @@
 Das Selbststudium besteht im Durcharbeiten des Textbuches Kronthaler, F. (2016), Statistik angewandt – Datenanalyse ist (k)eine Kunst mit dem R Commander, Berlin Heidelberg, Springer (nicht Kapitel 16, 20, 21, 22).
 
 1.2 Warum Statistik Checkpoints
- - Wissen basiert auf Erfahrungen, Theorien und Daten, wobei der größte Teil unseres Wissens auf Daten beruht.
+􏰌 - Wissen basiert auf Erfahrungen, Theorien und Daten, wobei der größte Teil unseres Wissens auf Daten beruht.
 􏰌 - Daten werden manchmal eingesetzt, um uns zu manipulieren.
 􏰌 - Fundierte Datenanalyse hilft uns, gute Entscheidungen zu treffen.
 
@@ -33,19 +33,15 @@ metrisch ist neben der Unterscheidung und der Rangordnung zusätzlich noch der 
 
 1.1. Nenne drei Gründe, warum Statistik nützlich ist.
 1.2. Welche Angaben sind in einem Datensatz enthalten?
-1.3. Welche Skalenniveaus sind für die statistische Datenanalyse von Bedeutung und wie
-sind diese ausgestaltet?
+1.3. Welche Skalenniveaus sind für die statistische Datenanalyse von Bedeutung und wie sind diese ausgestaltet?
 1.4. Welches Skalenniveau besitzt die Variable Branche mit den Ausprägungen Industrieunternehmen und Dienstleistungsunternehmen, die Variable Selbsteinschätzung mit den Ausprägungen sehr erfahren, erfahren, wenig erfahren und nicht erfahren und die Variable Umsatz gemessen in Franken?
 1.5. Welches Skalenniveau hat die Variable Bildung mit den Ausprägungen Sekundarschule, Matura, Fachhochschule, Universität, PhD bzw. die Variable Bildung gemessen in Jahren, die in einer Bildungsinstitution verbracht wurden?
 1.6. Warum sind Skalenniveaus für die statistische Datenanalyse von Bedeutung?
 1.7. Warum benötigen wir eine Legende für unsere Daten?
 1.8. Öffne unseren Datensatz Daten_Wachstum und mache Dich mit ihm vertraut. Beantworte dabei folgende Fragen: Wie groß ist die Anzahl an Beobachtungen? Wie viele metrische, ordinale und nominale Variablen sind im Datensatz enthalten? Wie sind die metrischen, ordinalen und nominalen Daten gemessen?
 1.9. Wie vertrauenswürdig ist unser Datensatz Daten_Wachstum?
-1.10. Nenne jeweils eine vertrauenswürdige Datenquelle für dein Land, deinen Kontinent
-und die Welt?
-1.11. Denke dir drei Fragestellungen aus, welche vermutlich mit Daten analysiert werden.
-Suche hierfür die geeigneten Datenquellen.
-
+1.10. Nenne jeweils eine vertrauenswürdige Datenquelle für dein Land, deinen Kontinent und die Welt?
+1.11. Denke dir drei Fragestellungen aus, welche vermutlich mit Daten analysiert werden. Suche hierfür die geeigneten Datenquellen.
 
 Im Kap. 3 befassen wir uns mit dem Durchschnitt, im Kap. 4 mit der Abweichung vom Durchschnitt und im Kap. 5 gehen wir noch einmal genauer auf unsere Beobachtungen ein und fragen uns, wie sich Gruppen von Beobachtungen verhalten. Anschließend betrachten wir in Kap. 6 den Zusammenhang zwischen Variablen und in Kap. 7 zeigen wir auf, wie aus vorhandenen Variablen neues Wissen erzeugt werden kann.
 
@@ -82,7 +78,7 @@ kann der Modus für metrische Daten, ordinale Daten und nominale Daten berechne
   Wachstumraten -> geo Mittelwert
 
 3.7 Checkwerte
- - Der Modus kommt bei nominalen Variablen zum Einsatz.
+􏰌 - Der Modus kommt bei nominalen Variablen zum Einsatz.
 􏰌 - Bei ordinalen Variablen können wir sowohl den Modus als auch den Median berechnen.
 􏰌 - Bei metrischen Variablen stehen uns der Modus, der Median und der arithmetische Mittelwert zur Verfügung.
 􏰌 - Der arithmetische Mittelwert reagiert empfindlich auf Ausreißer, während der Modus und der Median für Extremwerte unempfindlich sind.
@@ -108,13 +104,9 @@ detach(Name_Datensatz)
 3.3. Berechne von Hand für die ersten sechs Unternehmen des Datensatzes Daten_Wachstum den Median für die Variablen Selbsteinschätzung und Bildung und interpretiere die Ergebnisse.
 3.4. Berechne von Hand für die ersten sechs Unternehmen des Datensatzes Daten_Wachstum den Modus für die Variablen Geschlecht und Erwartung und interpretiere die Ergebnisse.
 3.5. Kann für die Variable Motiv der Median sinnvoll berechnet werden?
-3.6. Berechne zu dem Datensatz Daten_Wachstum für alle Variablen die zugehörigen
-Mittelwerte mit Hilfe des R Commanders.
-3.7. Unser drittes Unternehmen im Datensatz ist im ersten Jahr mit 16 %, im zweiten
-Jahr mit 11 %, im dritten Jahr mit 28 %, im vierten Jahr mit 13 % und im fünften
-Jahr mit 23 % gewachsen. Wie hoch ist durchschnittliche Wachstumsrate?
-3.8. Welcher Mittelwert reagiert sensibel auf Ausreißer, welche beiden nicht und
-warum?
+3.6. Berechne zu dem Datensatz Daten_Wachstum für alle Variablen die zugehörigen Mittelwerte mit Hilfe des R Commanders.
+3.7. Unser drittes Unternehmen im Datensatz ist im ersten Jahr mit 16 %, im zweiten Jahr mit 11 %, im dritten Jahr mit 28 %, im vierten Jahr mit 13 % und im fünften Jahr mit 23 % gewachsen. Wie hoch ist durchschnittliche Wachstumsrate?
+3.8. Welcher Mittelwert reagiert sensibel auf Ausreißer, welche beiden nicht und warum?
 
 4. Streuung: Die Abweichung vom durchschnittlichen Verhalten
 
