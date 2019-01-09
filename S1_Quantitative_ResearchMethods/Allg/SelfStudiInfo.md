@@ -106,7 +106,7 @@ detach(Name_Datensatz)
 3.5. Kann für die Variable Motiv der Median sinnvoll berechnet werden?
 3.6. Berechne zu dem Datensatz Daten_Wachstum für alle Variablen die zugehörigen Mittelwerte mit Hilfe des R Commanders.
 3.7. Unser drittes Unternehmen im Datensatz ist im ersten Jahr mit 16 %, im zweiten Jahr mit 11 %, im dritten Jahr mit 28 %, im vierten Jahr mit 13 % und im fünften Jahr mit 23 % gewachsen. Wie hoch ist durchschnittliche Wachstumsrate?
-3.8. Welcher Mittelwert reagiert sensibel auf Ausreißer, welche beiden nicht und warum?
+3.8. Welcher Mittelwert reagiert sensibel auf Ausreißer, welche beiden nicht und  warum?
 
 4. Streuung: Die Abweichung vom durchschnittlichen Verhalten
 
@@ -143,7 +143,7 @@ Der Boxplot vereinigt die Informationen zum Median, zum 1. und 3. Quartil sowie 
 4.7 Checkpoints
 􏰌 - Streuungsmaße ergänzen unsere Information zum Mittelwert, je kleiner die Streuung, desto aussagekräftiger ist der Mittelwert.
  - Die Spannweite ist die Differenz zwischen Maximum und Minimum einer Variablen, sie reagiert sehr empfindlich auf Ausreißer.
-􏰌 - Die Standardabweichung ist die durchschnittliche Abweichung aller Werte vom Mit- telwert. Die Varianz ist die quadrierte Standardabweichung. Bei metrischen Variablen können beide Werte sinnvoll berechnet werden.
+􏰌 - Die Standardabweichung ist die durchschnittliche Abweichung aller Werte vom Mittelwert. Die Varianz ist die quadrierte Standardabweichung. Bei metrischen Variablen können beide Werte sinnvoll berechnet werden.
 􏰌 - Der Quartilsabstand gibt uns die Bandbreite an, in der sich die mittleren 50 % der Werte bewegen. Er kann sowohl bei metrischen als auch bei ordinalen Daten verwendet werden.
 􏰌 - Der Variationskoeffizient wird bei metrischen Daten angewandt, um zu analysieren, bei welcher Variable die Streuung größer ist.
 􏰌 Der Boxplot ist ein grafisches Instrument zur Analyse der Streuung.
@@ -154,6 +154,7 @@ GUI -> Deskriptive Statistik -> Zusammenfassung Nummerischer Variablen -> Variab
 attach(Datensatz)
 min(Variablenname)
 max(Variablenname)
+
 sd(Variablenname)
 var(Variablenname)
 IQR (Variablenname)
@@ -280,12 +281,12 @@ Zur Anwendung. Bei
 6.8 Checkpoints
 􏰌 
  - Korrelationen geben Auskunft darüber, ob es einen Zusammenhang zwischen zwei Variablen gibt, sie sagen nichts über Kausalität aus.
-􏰌 -  Es kann sein, dass gefundene Korrelationen auf den Einfluss von Drittvariablen zu- rückzuführen sind. Korrelationen müssen theoretisch begründbar sein.
- 􏰌-  Der Korrelationskoeffizient von Bravais-Pearson ist dazu geeignet, den linearen Zu- sammenhang zwischen zwei metrischen Variablen zu berechnen.
+􏰌 -  Es kann sein, dass gefundene Korrelationen auf den Einfluss von Drittvariablen zurückzuführen sind. Korrelationen müssen theoretisch begründbar sein.
+ 􏰌-  Der Korrelationskoeffizient von Bravais-Pearson ist dazu geeignet, den linearen Zusammenhang zwischen zwei metrischen Variablen zu berechnen.
  􏰌- Vor der Berechnung des Korrelationskoeffizienten von Bravais-Pearson sollte das Streudiagramm gezeichnet werden, um zu überprüfen, ob ein linearer Zusammenhang existiert.
 􏰌 - Der Korrelationskoeffizient von Spearman wird benutzt, um den Zusammenhang zwischen zwei ordinalen Variablen zu berechnen.
 􏰌 - Soll die Korrelation zwischen zwei nominalen Variablen berechnet werden, so ist der Vierfelderkoeffizient oder der Kontingenzkoeffizient zu verwenden.
-􏰌 - Für die Berechnung von Korrelationen zwischen Variablen mit unterschiedlichen Ska- lenniveaus stehen weitere spezialisierte Korrelationskoeffizienten zur Verfügung.
+􏰌 - Für die Berechnung von Korrelationen zwischen Variablen mit unterschiedlichen Skalenniveaus stehen weitere spezialisierte Korrelationskoeffizienten zur Verfügung.
 
 6.9 Berechnung der Korrelationskoeffizienten mit dem R Commander
 
@@ -1157,8 +1158,8 @@ Kapitel 1
 Kapitel 3
 3.1 Der Modus kommt bei nominalen, ordinalen und metrischen Daten zum Einsatz. Die Berechnung des Medians ist bei ordinalen und metrischen Daten sinnvoll. Die Berechnung des arithmetischen Mittelwertes erfordert metrische Daten. Der geome- trische Mittelwert verlangt metrisch-verhältnisskalierte Daten.
 3.2 xNProduktverbesserung D 6 %; xNMarketing D 20 %. Der Mittelwert ist bei der Variable Mar- keting höher, d. h. die Unternehmen wenden im Durchschnitt einen höheren Anteil vom Umsatz für Marketing auf.
-3.3 MeSelbsteinschätzung D 4; MeBildung D 1:5. Der Median hat bei der Variable Selbst- einschätzung einen Wert von 4. 50 % der Unternehmen haben einen höheren Wert, 50 % einen niedrigeren Wert. Der Median bei der Variable Bildung liegt beim Wert 1.5. 50 % der Unternehmen haben einen höheren Wert, 50 % einen niedrigeren Wert.
-3.4 MoGeschlecht D 0 & 1; MoErwartung D 2. Die häufigsten Werte bei der Variable Geschlecht sind 0 & 1. Wir haben gleich viele Gründer und Gründerinnen in der Stichprobe. Der häufigste Wert bei der Variable Erwartung ist 2. Die meisten Unter- nehmen erwarten keine Veränderung in der zukünftigen Entwicklung.
+3.3 MeSelbsteinschätzung D 4; MeBildung D 1,5. Der Median hat bei der Variable Selbst- einschätzung einen Wert von 4. 50 % der Unternehmen haben einen höheren Wert, 50 % einen niedrigeren Wert. Der Median bei der Variable Bildung liegt beim Wert 1.5. 50 % der Unternehmen haben einen höheren Wert, 50 % einen niedrigeren Wert.
+3.4 MoGeschlecht D 0 & 1; MoErwartung D 2. Die häufigsten Werte bei der Variable Geschlecht sind 0 & 1. Wir haben gleich viele Gründer und Gründerinnen in der Stichprobe. Der häufigste Wert bei der Variable Erwartung ist 2. Die meisten Unternehmen erwarten keine Veränderung in der zukünftigen Entwicklung.
 3.5 Nein, die Variable ist nominal skaliert.
 3.6 Die Ergebnisse werden im Folgenden schematisch nur für die Wachstumsrate dargestellt. Zu beachten ist, dass bei metrischen Variablen der arithmetische Mittelwert, der Median und der Modus zu berechnen sind, bei ordinalen Variablen der Median und der Modus und bei nominalen Variablen nur der Modus.
 3.7 Der durchschnittliche Wachstumsfaktor beträgt 1.18, die durchschnittliche Wachstumsrate 18 %.
