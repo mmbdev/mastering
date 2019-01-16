@@ -391,7 +391,7 @@ Besitzt jedes Element der Grundgesamtheit dieselbe Wahrscheinlichkeit, in die St
 8.2. Suche die aktuellen Daten zur Zahl der Einwohner in den Ländern der Welt im Internet. Wie viel Einwohner haben China, Indien, die Schweiz, Deutschland und die USA aktuell?
 8.3. Erkläre, was die Grundgesamtheit ist, was eine Stichprobe ist und welche Eigenschaft erfüllt sein muss, damit wir von der Stichprobe auf die Grundgesamtheit schließen können.
 8.4. Wie hoch ist die Wachstumsrate der Unternehmen im Durchschnitt und wie groß ist das 90-, das 95- und das 99 %-Konfidenzintervall?
-8.5. Berechne die benötigte Stichprobengröße, wenn wir die durchschnittliche Wachstumsrate der Unternehmen mit einer 95 % Sicherheit schätzen wollen und die Konfidenzintervallbreite nicht größer als 2 Prozentpunkte sein soll. Aus Voruntersu- chungen wissen wir, dass die Standardabweichung in der Grundgesamtheit circa 5 Prozentpunkte beträgt.
+8.5. Berechne die benötigte Stichprobengröße, wenn wir die durchschnittliche Wachstumsrate der Unternehmen mit einer 95 % Sicherheit schätzen wollen und die Konfidenzintervallbreite nicht größer als 2 Prozentpunkte sein soll. Aus Voruntersuchungen wissen wir, dass die Standardabweichung in der Grundgesamtheit circa 5 Prozentpunkte beträgt.
 8.6. Wie viele Prozent der Unternehmensgründungen in unserem Datensatz Daten_ Wachstum sind Industrieunternehmen und wie groß ist das 90-, das 95- und das 99 %-Konfidenzintervall?
 8.7. Wie groß müsste die Stichprobe sein, wenn wir den Anteil der Industriegründungen in der Grundgesamtheit mit einer 90 % Sicherheit in einer Konfidenzintervallbreite von 8 Prozentpunkten schätzen wollen. Aus Vorüberlegungen wissen wir, dass der Anteil der Industriegründungen an den Unternehmensgründungen circa bei 25 Prozent liegt.
 8.8. Was bedeutet Validität und Reliabilität?
@@ -439,7 +439,6 @@ HA: Es gibt einen negativen Zusammenhang zwischen dem Anteil am Umsatz, den jung
 􏰌 - Im Forschungsprozess unterscheiden wir zwischen Nullhypothese H0 und Alternativ- hypothese HA. Die Nullhypothese ist die testbare Aussage, die Alternativhypothese ist immer das Gegenteil zur Nullhypothese.
 􏰌 - Wir können unsere Hypothesen ungerichtet und gerichtet formulieren. Die Formulierung einer gerichteten Hypothese setzt einen höheren Kenntnisstand voraus als die Formulierung einer ungerichteten Hypothese.
  - Eine gute Hypothese erfüllt folgende Kriterien: Sie ist eine direkte Erweiterung der Fragestellung, ist als Aussage formuliert, reflektiert die existierende Literatur und sie ist kurz und bündig sowie testbar.
-
 
 9.6 Anwendung
 9.1. Formuliere für folgende Forschungsfragen die ungerichteten Null- und Alternativhypothesen.

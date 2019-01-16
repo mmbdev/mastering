@@ -14,3 +14,5 @@
  - wie werden Ausreiser identifiziert?
  - wie werden Ergbnisse der Regressionsanalyse validiert?
 
+ . Plott auf Heteroskedastizität (Aufgabe 4 anschauen)
+ . 
