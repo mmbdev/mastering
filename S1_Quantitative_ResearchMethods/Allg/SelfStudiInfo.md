@@ -716,16 +716,16 @@ Grafiken -> Boxplott -> Alter -> F_Geschlecht
 
 13.9 Anwendung
 13.1. Wir fragen uns, ob Männer und Frauen bei Gründung eines Unternehmens gleich alt sind. Theoretische Überlegungen und bisherige Studien bringen uns dazu anzunehmen, dass Männer im Durchschnitt älter als Frauen sind. Führe den Test mit Hand zum 10 % Signifikanzniveau unter Berücksichtigung aller relevanten Schritte durch.
-13.2. Uns interessiert, ob Dienstleistungsunternehmen oder Industrieunternehmen in den letzten fünf Jahren ein höheres Wachstum verzeichnet haben. Studien und theore- tische Überlegungen deuten darauf hin, dass es einen Unterschied geben müsste. Führe den Test unter Berücksichtigung aller relevanten Schritte mit Hilfe des R Commanders zum 5 % Signifikanzniveau durch.
-13.3. Uns interessiert, ob Industrieunternehmen oder aber Dienstleistungsunternehmen relativ mehr Geld für Produktverbesserungen aufwenden. Studien und theoretische Überlegungen deuten darauf hin, dass Industrieunternehmen einen höheren Anteil vom Umsatz für Produktverbesserungen aufwenden. Führe den Test mit Hilfe des R Commanders unter Berücksichtigung aller relevanten Schritte zum 1 % Signifi- kanzniveau durch.
+13.2. Uns interessiert, ob Dienstleistungsunternehmen oder Industrieunternehmen in den letzten fünf Jahren ein höheres Wachstum verzeichnet haben. Studien und theoretische Überlegungen deuten darauf hin, dass es einen Unterschied geben müsste. Führe den Test unter Berücksichtigung aller relevanten Schritte mit Hilfe des R Commanders zum 5 % Signifikanzniveau durch.
+13.3. Uns interessiert, ob Industrieunternehmen oder aber Dienstleistungsunternehmen relativ mehr Geld für Produktverbesserungen aufwenden. Studien und theoretische Überlegungen deuten darauf hin, dass Industrieunternehmen einen höheren Anteil vom Umsatz für Produktverbesserungen aufwenden. Führe den Test mit Hilfe des R Commanders unter Berücksichtigung aller relevanten Schritte zum 1 % Signifikanzniveau durch.
 13.4. Wir fragen uns, ob Männer und Frauen bei Gründung eines Unternehmens mehr Branchenberufserfahrung mitbringen. Existierende Studien deuten darauf hin, dass es einen Unterschied gibt. Wir führen den entsprechenden Hypothesentest unter Berücksichtigung aller relevanten Schritte mit Hilfe des R Commanders durch.
-13.5. Uns interessiert, ob Gründer oder Gründerinnen mehr für Marketing aufwenden. Theoretische Überlegungen führen dazu anzunehmen, dass Männer mehr Geld für Marketing aufwenden als Frauen. Wir führen den entsprechenden Hypothesen- test unter Berücksichtigung aller relevanten Schritte mit Hilfe des R Commanders durch.
+13.5. Uns interessiert, ob Gründer oder Gründerinnen mehr für Marketing aufwenden. Theoretische Überlegungen führen dazu anzunehmen, dass Männer mehr Geld für Marketing aufwenden als Frauen. Wir führen den entsprechenden Hypothesentest unter Berücksichtigung aller relevanten Schritte mit Hilfe des R Commanders durch.
 
 14 Der Test auf Differenz von Mittelwerten bei abhängigen Stichproben
 
 14.1 Einführung in den Test auf Differenz von Mittelwerten bei abhängigen Stichproben
 
-Beim Mittelwerttest für unabhängige Stichproben haben wir untersucht, ob sich zwei unabhängige Gruppen bezüglich eines Sachverhaltes unterscheiden. Wir haben zwei ver- schiedene Gruppen untersucht und diese dann verglichen. Beim Test auf Differenz von Mittelwerten bei abhängigen Stichproben untersuchen wir ein und dieselbe Gruppe zwei- mal und fragen uns, ob eine bestimmte Maßnahme einen Einfluss auf die Gruppe hat. Wir können uns beispielweise fragen, ob Alkohol einen Einfluss auf die Fahrtüchtigkeit von Personen hat, oder ob ein Medikament den Gesundheitszustand von Personen verbessert. Wir untersuchen die Person vor und nach der Maßnahme, vergleichen anschließend die Ergebnisse und fragen damit nach der Wirkung der Maßnahme. Im Unternehmenskontext wird das Verfahren zum Beispiel eingesetzt, um die Wirkung einer Werbemaßnahme zu evaluieren, z. B. um zu fragen, welchen Einfluss eine Werbemaßnahme auf die Einstellung von Personen zu einem bestimmten Produkt oder Unternehmen ausübt. Man könnte aber auch untersuchen, wie Energy-Drinks die Leistungsfähigkeit von Sportlern beeinflusst.
+Beim Mittelwerttest für unabhängige Stichproben haben wir untersucht, ob sich zwei unabhängige Gruppen bezüglich eines Sachverhaltes unterscheiden. Wir haben zwei verschiedene Gruppen untersucht und diese dann verglichen. Beim Test auf Differenz von Mittelwerten bei abhängigen Stichproben untersuchen wir ein und dieselbe Gruppe zweimal und fragen uns, ob eine bestimmte Maßnahme einen Einfluss auf die Gruppe hat. Wir können uns beispielweise fragen, ob Alkohol einen Einfluss auf die Fahrtüchtigkeit von Personen hat, oder ob ein Medikament den Gesundheitszustand von Personen verbessert. Wir untersuchen die Person vor und nach der Maßnahme, vergleichen anschließend die Ergebnisse und fragen damit nach der Wirkung der Maßnahme. Im Unternehmenskontext wird das Verfahren zum Beispiel eingesetzt, um die Wirkung einer Werbemaßnahme zu evaluieren, z. B. um zu fragen, welchen Einfluss eine Werbemaßnahme auf die Einstellung von Personen zu einem bestimmten Produkt oder Unternehmen ausübt. Man könnte aber auch untersuchen, wie Energy-Drinks die Leistungsfähigkeit von Sportlern beeinflusst.
 
 14.2 Das Beispiel: Schulung von Unternehmensgründern in der Vorgründungsphase
 
@@ -735,8 +735,8 @@ Tabellarische Darstellung der Kennzahlen mit Legende, ausgerechnete quadrierte D
 
 FF: Hat die Schulung einen Einfluss auf die Einschätzung der potentiellen Unternehmensgründer hinsichtlich des Marktpotentials ihrer geplanten Unternehmen?
 
-H0: Die Schulung hat keinen Einfluss auf die Einschätzung der potentiellen Unterneh- mensgründer hinsichtlich des Marktpotentials ihrer geplanten Unternehmen.
-HA: Die Schulung hat einen Einfluss auf die Einschätzung der potentiellen Unterneh- mensgründer hinsichtlich des Marktpotentials ihrer geplanten Unternehmen.
+H0: Die Schulung hat keinen Einfluss auf die Einschätzung der potentiellen Unternehmensgründer hinsichtlich des Marktpotentials ihrer geplanten Unternehmen.
+HA: Die Schulung hat einen Einfluss auf die Einschätzung der potentiellen Unternehmensgründer hinsichtlich des Marktpotentials ihrer geplanten Unternehmen.
 
 alpha = 10 %
 
