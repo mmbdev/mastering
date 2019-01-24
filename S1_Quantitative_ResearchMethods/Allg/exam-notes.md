@@ -8,7 +8,7 @@
   . H0 es gibt keinen Zusammenhang
   . HA es gibt einen Zusammenhang
 
- - kleinste QuadrateSchätzer , unverzerrteste und effizenteste Ergebnisse (hohe Reabilität)
+ - kleinste QuadrateSchätzer, unverzerrteste und effizenteste Ergebnisse (hohe Reabilität)
  - Gauss-Markov-Annahme für Modell erfüllt -> dann ist unverzerrt und effizent (präzise)
  - einfacher Lösungen bei Verletzungen der Gauss-Markov-Annahmen
  - wie werden Ausreiser identifiziert?
