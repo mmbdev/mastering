@@ -7,8 +7,22 @@ Major of Information Sience and Data Engineering - MBA
 ## Modules:
   S1:
    - Advanced Web Technologies
-     - Block 1 – Datenkommunikation, Rechnernetze, Internet
+     - L1 – Datenkommunikation, Rechnernetze, Internet
+     - L2 – Serverbetrieb: Webserver, Virtualisierung, Cloud-Dienste
+     - L3 - HTML, CSS, DOM, Webbrowser
+     - L4 - Dynamische Webanwendungen: Scriptsprachen
+     - L5 – Dynamische Web-Anwendungen: Datenbank-Systeme
+     - L6 – Aktuelle Web-Anwendungen und Web-Trends
+
    - Coroperate Communciation
+     - L1 - Grundlagen der Kommunikation (Gestik, Mimik, CI, CD, CC)
+     - L2 - Externe Kommunikation
+     - L3 - Medienkonferenz
+     - L4 - Interne Kommunikation
+     - L5 - Kriesenkommunikation
+     - L6 - Kommunikationsstrategie
+     - L7 - Erfolgskontrolle
+     
    - Corporate Responsibility
    - Introduction to Data Management and Analysis
    - Qualitatie Research Methods (Survey Questionary)
