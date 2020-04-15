@@ -24,7 +24,16 @@ Major of Information Sience and Data Engineering - MBA
      - L7 - Erfolgskontrolle
      
    - Corporate Responsibility
+   
    - Introduction to Data Management and Analysis
+     - L1 - BigData Einfuehrung, Volume, Velocity, Variety, Veracity
+     - L2 - Statistische Grundlagen der Datenanalyse
+     - L3 - Data Mining
+     - L4 - Data Warehouse
+     - L5 - Data Management strukturell und operationaler Sicht
+     - L7 - Data Management administrativer Sicht
+     - L8 - Beispiel-Szenarien: Pharmaindustrie, Kundendaten
+
    - Qualitatie Research Methods (Survey Questionary)
    - Quantitative Research Methods (Mathematic Statistical Analysis)
    - Research Design
