@@ -7,7 +7,7 @@ Major of Information Sience and Data Engineering - MBA
 ## Modules:
   S1:
    - Advanced Web Technologies
-    - Block 1 – Datenkommunikation, Rechnernetze, Internet
+     - Block 1 – Datenkommunikation, Rechnernetze, Internet
    - Coroperate Communciation
    - Corporate Responsibility
    - Introduction to Data Management and Analysis
