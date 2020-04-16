@@ -203,13 +203,11 @@ Major of Information Sience and Data Engineering - MBA
      - L7 - Informationsgrafik und Anwendung
 
    - Trends in Data Mangement
-    
-  S5:
-   - Advanced Topics in Information Science (OSS, E-Commerce)
-   
-   - Advanced Information Retrival
-   
-   - Leadership
+     - L1 - Organisatorisches / Grundlagen Datenmanagement
+     - L2 - Life Cycle Modelle
+     - L3 - Forschungsdatenmanagement – Survey Design und Data Collection
+     - L4 - Datenanalye und Data Curation
+     - L5 - Dissemination und Publikation
 
 ## Conclusion:
   This Major and MBA contains a lot of theoretic and psychological information and knowledge content. 
