@@ -105,25 +105,76 @@ Major of Information Sience and Data Engineering - MBA
      - L7 - Präsentation der Analysen
 
    - User Interface Design (UI, UX, UD)
+     - L1 - Design Process
+     - L2 - Usability Engineering
+     - L3 - Usability Engineering
+     - L4 - Knowing the Users
+     - L5 - Usability Evaluation
    
    - Digital Business
-
+     - L1 - What is a digital business?
+     - L2 - Digital Business and the Automatization of Decision Making
+     - L3 - The Digitalization of Processes: Digital businesses without people for the customer, patient, sales prospect.
+     - L4 - The Digitalization of Production: The Rise of the Robots
+     - L5 - Platform Economies
+     - L6 - Platform Economies: Paying Complements and O2O
+     - L7 - Technology Adaption
   S3:
    - Advanced Information Retrival
+     - K1 - Einfuehrung und Ueberblick Information Retrival
+     - K2 - Abstracting
+     - K3 - Indextechniken
+     - K4 - Spracherkennung und Rechtschreibserkennung mit N-Gramm
+     - K5 - Boole'sche Retrivalmodell
+     - K6 - Retrival Effektivität, Recall und Precision
+     - K7 - Kontrolliertes Vokabular mit Thesauri
+     - K8 - Klassifikation
+     - K9 - Ranking in Retrievalsystemen
+     - K10 - Retrievalmodell nach Salton (Vektorraum-Modell)
+     - K11 - Termgewichtungsverfahren
+     - K12 - Clusterverfahren
+     - K13 - Retrievalmodell mit Fuzzy-Mengen
+     - K14 – Graph-Basierte Modelle
+     - K15 - Probabilistisches Retrievalmodell BIR
+     - K16 - Social Search
+     - K17 - Vergleich der Retrievalmodelle und Diskussion
+
    - Advanced Topics in Information Sience (OSS, E-Commerce)
+     - L1 - OpenSource, Informationsökonomie, Industrie4.0, Informationsethik
+     - L2 - OpenSource vs. Freie Software, OpenSource und Open Content Lizenzmodelle, Creative Commons
+     - L3 - Einsatz von OSS in Unternehmen, Entwicklung von Geschäftsmodellen, Erfolgsfaktoren für OSS
+     - L4 - Stärken und Schwächen von OSS (SWOT-Analyse)
+          - OSS im Rahmen der Softwareauswahl
+          - Faktoren für den Erwerb und Entwicklung von OSS
+          - OSS-Portale, OS-Wettbewerber, OSS-Entscheidung: Kosten, Nutzen und strategische Aspekte
+          - Umsetzung: von der Entscheidung zur Migration
+     - L5 - Digitale Informationsgüter I
+          - Elektronische Märkte/Plattformen
+          - Beurteilungskriterien elektronischer Märkte
+          - Digitale Güter als Ware auf einem EM
+     - L6 - Digitale Informationsgüter II
+
    - Information Security
+     - L1 - 
+
    - Leadership
+   
    - Practice Project 2
+   
    - Research Design
+   
    - Talent Management
     
   S4:
    - Information Visualization
+   
    - Trends in Data Mangement
     
   S5:
    - Advanced Topics in Information Science (OSS, E-Commerce)
+   
    - Advanced Information Retrival
+   
    - Leadership
 
 ## Conclusion:
