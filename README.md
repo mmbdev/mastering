@@ -86,6 +86,7 @@ Major of Information Sience and Data Engineering - MBA
      - L7 - Konzeptentwicklung und Rolle der Führungskräfte
 
    - Pratice Project
+     - Big Data in der Versicherungsbranche: Wahrnehmung und Bewertung in der Bevölkerung
    
    - Sepcific Research Methods
 
@@ -155,19 +156,52 @@ Major of Information Sience and Data Engineering - MBA
      - L6 - Digitale Informationsgüter II
 
    - Information Security
-     - L1 - 
+     - L1 - Grundlagen und Begriffe, Historie
+     - L2 - Rechtliche Rahmenbedingungen Datensicherheit
+     - L3 - Konkrete Bedrohungen
+     - L4 - Sicherheit im Internet
+     - L5 - Security Engineering
+     - L6 - Grundlagen der Kryptographie
+     - L7 - Anwendung von kryptografischen Verfahren, Authentifikation
+     - L8 - Datenschutz
 
    - Leadership
+     - L1 - Führungseigenschaften, -motive und -fähigkeiten
+       - Power is the great motivator (McClelland/Burnham)
+       - Der Leiter der F+E managt miserabel (Adler)
+     - L2 - Aufgaben-, mitarbeiterorientierte Führung
+       - Perspectives on effective leadership behavior (Yukl)
+     - L3 - Partizipative Führung
+       - How to choose a leadership pattern (Tannenbaum, Schmidt)
+     - L4 - Direktive, delegative Führung
+       - McGregor (Carlisle)
+     - L5 - Transaktionale Führung
+       - On the folly of rewarding A, while hoping for B (Kerr)
+       - Fallstudie Rainbarrel Products (Kerr)
+     - L6 - Charismatische Führung
+       - Kontinuität und Charisma vertragen sich nicht (Lehmann)
+     - L7 - Situative Führung
+       - Contingency theories of effective leadership (Yukl)
+       - Profis bedürfen sanfter Führung (Mintzberg)
    
    - Practice Project 2
-   
-   - Research Design
-   
+      - Elektronischer Datenaustausch (EDI) bei der SBB Cargo AG
+
    - Talent Management
-    
+      - L0 - Grundlagen
+      - L1 - Bestimmugnsfaktoren
+      - L2 - Prozess
+  
   S4:
    - Information Visualization
-   
+     - L1 - Wahrnehumg
+     - L2 - Gestaltgesetze / Gestaltungselemente
+     - L3 - Farbgestaltung
+     - L4 - Typografie: Lesbarkeit, Schriftwirkung, Typoelemente
+     - L5 - Kreativität und Entwurfstechniken
+     - L6 - Bildgestaltung und Anwendungen
+     - L7 - Informationsgrafik und Anwendung
+
    - Trends in Data Mangement
     
   S5:
