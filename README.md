@@ -34,7 +34,7 @@ Major of Information Sience and Data Engineering - MBA
      - L7 - Data Management administrativer Sicht
      - L8 - Beispiel-Szenarien: Pharmaindustrie, Kundendaten
 
-   - Qualitatie Research Methods (Survey Questionary)
+   - Qualitative Research Methods (Survey Questionary)
      - L1 - Methodenueberblick, Theorie und Empirie
      - L2 - Operationalisierung: Entwicklung: Befragungsinstrumente
      - L3 - Planung der Befragung (inkl. Datendokumentation)
